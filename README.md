@@ -1,7 +1,6 @@
 # google-vision-api
 
-
-
+This repository includes code originally written during the [Archives Unleashed Hackathon](https://artsweb.uwaterloo.ca/archivesunleashed/) (March 3-5, 2016). 
 
 
 ## Google Cloud Vision API
@@ -10,7 +9,7 @@
 $ python google-vision-api.py [images]
 ```
 
-The [Google Cloud Vision API](https://cloud.google.com/vision/docs/) beta was released on March 01, 2016. The API currently allows for label detection, text detection, and face detection among many others. 
+The [Google Cloud Vision API](https://cloud.google.com/vision/docs/) beta was released earlier this month (I received an email on the beta release on March 01, 2016). The API currently allows for label detection, text detection, and face detection among [many others](https://cloud.google.com/vision/docs/concepts). 
 
 ### Setting Up
 
