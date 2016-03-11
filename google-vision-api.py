@@ -16,7 +16,7 @@ from oauth2client.client import GoogleCredentials
 __author__ = "NC"
 
 # Globals
-timestamp = str(datetime.datetime.now())
+timestamp = str(datetime.datetime.now())  # Use timestamp to store data in unique filenames
 json_file_name = timestamp + "-vision-api-output.json"
 csv_file_name = timestamp + "-vision-api-output.csv"
 
@@ -129,11 +129,6 @@ def main(photo_file):
 
     return 0
 
-# if __name__ == '__main__':
-#     parser = argparse.ArgumentParser()
-#     parser.add_argument('image_file', help='The image you\'d like to label.')
-#     args = parser.parse_args()
-#     main(args.image_file)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
