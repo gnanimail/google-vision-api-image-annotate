@@ -17,8 +17,8 @@ __author__ = "NC"
 
 # Globals
 timestamp = str(datetime.datetime.now())  # Use timestamp to store data in unique filenames
-json_file_name = timestamp + "-vision-api-output.json"
-csv_file_name = timestamp + "-vision-api-output.csv"
+json_file_name = "output data/" + timestamp + "-vision-api-output.json"
+csv_file_name = "output data/" + timestamp + "-vision-api-output.csv"
 
 # Initialize csv
 with open(csv_file_name, 'a') as csvfile:
