@@ -1,0 +1,79 @@
+{
+   "query": "images/dog.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.98414, 
+               "mid": "/m/068hy", 
+               "description": "pet"
+            }, 
+            {
+               "score": 0.97904623, 
+               "mid": "/m/0bt9lr", 
+               "description": "dog"
+            }, 
+            {
+               "score": 0.96168429, 
+               "mid": "/m/04rky", 
+               "description": "mammal"
+            }, 
+            {
+               "score": 0.95276582, 
+               "mid": "/m/0jbk", 
+               "description": "animal"
+            }, 
+            {
+               "score": 0.89599335, 
+               "mid": "/m/09686", 
+               "description": "vertebrate"
+            }, 
+            {
+               "score": 0.83316147, 
+               "mid": "/m/01lrl", 
+               "description": "carnivoran"
+            }, 
+            {
+               "score": 0.77777779, 
+               "mid": "/m/0kpmf", 
+               "description": "dog breed"
+            }, 
+            {
+               "score": 0.73797971, 
+               "mid": "/m/0gz1d", 
+               "description": "english setter"
+            }, 
+            {
+               "score": 0.7224434, 
+               "mid": "/m/01t032", 
+               "description": "golden retriever"
+            }, 
+            {
+               "score": 0.6841464, 
+               "mid": "/m/05qgc4", 
+               "description": "polish lowland sheepdog"
+            }, 
+            {
+               "score": 0.62802678, 
+               "mid": "/m/02wbgd", 
+               "description": "english cocker spaniel"
+            }, 
+            {
+               "score": 0.60363442, 
+               "mid": "/m/03mgvkn", 
+               "description": "slovak cuvac"
+            }, 
+            {
+               "score": 0.5747754, 
+               "mid": "/m/01p2lr", 
+               "description": "american cocker spaniel"
+            }, 
+            {
+               "score": 0.57390559, 
+               "mid": "/m/0cpg4b", 
+               "description": "polish tatra sheepdog"
+            }
+         ]
+      }
+   ]
+}

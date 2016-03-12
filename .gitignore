@@ -59,9 +59,6 @@ target/
 output.html
 
 config.py
-*.json
-*.html
-json
 *.geojson
 html
 custom
