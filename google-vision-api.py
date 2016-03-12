@@ -121,7 +121,7 @@ def main(photo_file):
     print('\n= = = = = Image Processed = = = = =\n')
 
     response["query"] = photo_file
-    csv_response = [query, all_labels, all_text]
+    csv_response = [query, all_labels, all_text, '\n']
 
     response = json.dumps(response, indent=3)
     store_json(response)
