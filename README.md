@@ -2,18 +2,27 @@
 
 This repository includes code originally written during the [Archives Unleashed Hackathon](https://artsweb.uwaterloo.ca/archivesunleashed/) (March 3-5, 2016). 
 
-
-## Google Cloud Vision API
+The "google-vision-api.py" is a command-line tool to work with the Vision API.
 
 ```
 $ python google-vision-api.py [images]
 ```
+
+## Google Cloud Vision API
 
 The [Google Cloud Vision API](https://cloud.google.com/vision/docs/) beta was released earlier this month (I received an email on the beta release on March 01, 2016). The API currently allows for label detection, text detection, and face detection among [many others](https://cloud.google.com/vision/docs/concepts). 
 
 ### Setting Up
 
 1. You'll need a Google Developers account to create the API keys and to take care of other authentication details. Google's documentation for setting up this API is [here](https://cloud.google.com/vision/docs/getting-started). This is enough to get set up on your local machine.
+
+Don't forget to set up your credentials for the CLI to work:
+
+  ```
+  $ export GOOGLE_APPLICATION_CREDENTIALS=<path_to_service_account_file>
+
+  $ echo $GOOGLE_APPLICATION_CREDENTIALS
+  ```
 
 2. For the Python script, the [Label Detection Tutorial](https://cloud.google.com/vision/docs/label-tutorial) is a good start. You'll need to run a few "pip install" commands for "google-api-python-client", "oauth2client".
 

@@ -121,7 +121,7 @@ def main(photo_file):
     print('\n= = = = = Image Processed = = = = =\n')
 
     response["query"] = photo_file
-    csv_response = [query, all_labels, all_text, '\n']
+    csv_response = [query, all_labels, all_text]
 
     response = json.dumps(response, indent=3)
     store_json(response)
@@ -135,4 +135,3 @@ if __name__ == '__main__':
     parser.add_argument('image_input', help='The folder containing images or the image you\'d like to query')
     args = parser.parse_args()
     process_images(args.image_input)
-
