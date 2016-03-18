@@ -20,11 +20,6 @@ timestamp = str(datetime.datetime.now())  # Use timestamp to store data in uniqu
 json_file_name = "output data/" + timestamp + "-vision-api-output.json"
 csv_file_name = "output data/" + timestamp + "-vision-api-output.csv"
 
-# Initialize csv
-with open(csv_file_name, 'a') as csvfile:
-    csv_writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    csv_writer.writerow(['image_name', 'labels', 'texts'])
-
 
 def process_images(image_input):
     image_exts = ['.jpg', 'jpeg', '.png']
@@ -33,11 +28,13 @@ def process_images(image_input):
     # Check if folder
     if image_input[-1] == "/":
         dir_name = image_input
-        for fn in os.listdir(dir_name):
-            ext = os.path.splitext(fn)
-            if fn not in ignore_files and ext[1].lower() in image_exts and not os.path.isdir(fn):
-                print(fn)
-                main(dir_name + fn)
+
+        for file_name in os.listdir(dir_name):
+            ext = os.path.splitext(file_name)
+        
+            if file_name not in ignore_files and ext[1].lower() in image_exts and not os.path.isdir(fn):
+                print(file_name)
+                main(dir_name + file_name)
     else:
         print(image_input)
         main(image_input)
@@ -47,6 +44,12 @@ def store_json(json_input):
     with open(json_file_name, "a") as f:
         f.write(json_input)
         f.write('\n')
+
+
+def create_csv():
+    with open(csv_file_name, 'a') as csvfile:
+        csv_writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        csv_writer.writerow(['image_name', 'labels', 'texts'])
 
 
 def store_csv(csv_input):
@@ -59,7 +62,7 @@ def store_csv(csv_input):
 
 
 def main(photo_file):
-    """Run a label request on a single image"""
+    """Run a request on a single image"""
 
     API_DISCOVERY_FILE = 'https://vision.googleapis.com/$discovery/rest?version=v1'
     http = httplib2.Http()
@@ -124,6 +127,7 @@ def main(photo_file):
     csv_response = [query, all_labels, all_text]
 
     response = json.dumps(response, indent=3)
+    create_csv
     store_json(response)
     store_csv(csv_response)
 
