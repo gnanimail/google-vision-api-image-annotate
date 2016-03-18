@@ -59,10 +59,11 @@ def image_annotate(image_input, text=""):
     
     img = Image.open(image_input)
     
-    font = ImageFont.load_default()  # TODO: use better font
+    # font = ImageFont.load_default()  # DONE: TODO: use better font
+    font = ImageFont.truetype("fonts/UbuntuMono-Regular.ttf")
 
     draw = ImageDraw.Draw(img)
-    draw.text((10, 10), text, fill=128, font=font)
+    draw.multiline_text((10, 10), text, fill=128, font=font)
 
     # Save in "images output/"
     img_path = image_input.split("/")
