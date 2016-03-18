@@ -22,8 +22,8 @@ csv_file_name = "output data/" + timestamp + "-vision-api-output.csv"
 
 
 def process_images(image_input):
-    image_exts = ['.jpg', 'jpeg', '.png']
-    ignore_files = ['.DS_Store']
+    image_exts = ['.jpg', '.jpeg', '.png']
+    ignore_files = ['.DS_Store']  # For Mac OS X 
 
     # Check if folder
     if image_input[-1] == "/":
@@ -42,8 +42,7 @@ def process_images(image_input):
 
 def store_json(json_input):
     with open(json_file_name, "a") as f:
-        f.write(json_input)
-        f.write('\n')
+        f.write(json_input + '\n')
 
 
 def create_csv():
