@@ -10,11 +10,10 @@ import httplib2
 import datetime
 import json
 import os
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 from apiclient.discovery import build
 from oauth2client.client import GoogleCredentials
 
-__author__ = "NC"
 
 # Globals
 timestamp = str(datetime.datetime.now())  # Use timestamp to store data in unique filenames
@@ -55,9 +54,20 @@ def store_csv(csv_input):
             csv_writer.writerow(["ERROR"])
 
 
-def image_annotate(image_input):
+def image_annotate(image_input, text=""):
     """Uses PIL to annotate the image with response data"""
+    
     img = Image.open(image_input)
+    
+    font = ImageFont.load_default()  # TODO: use better font
+
+    draw = ImageDraw.Draw(img)
+    draw.text((10, 10), text, fill=128, font=font)
+
+    # Save in "images output/"
+    img_path = image_input.split("/")
+    img_name = img_path[len(img_path) - 1]
+    img.save("images output/" + img_name)
 
 
 def main(photo_file):
@@ -129,7 +139,7 @@ def main(photo_file):
     store_json(response)
     store_csv(csv_response)
 
-    image_annotate(photo_file)
+    image_annotate(photo_file, all_labels + '\n' + all_text)
 
     return 0
 
