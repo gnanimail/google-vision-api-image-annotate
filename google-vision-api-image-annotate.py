@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 """
-Uses the Google Cloud Vision API, currently in beta as of March 2016.
+Uses the Google Cloud Vision API to determine what entities are found within the image.
+As a further step, annotates the image itself with a parsed version of the API response.
+
 """
 
 import argparse
@@ -22,6 +24,7 @@ csv_file_name = "output data/" + timestamp + "-vision-api-output.csv"
 
 
 def process_images(image_input):
+    """Determines whether to run the API on a single image or a directory of images """
     image_exts = ['.bmp', '.gif', '.jpg', '.jpeg', '.png']
     ignore_files = ['.DS_Store']  # For Mac OS X 
 
@@ -41,11 +44,13 @@ def process_images(image_input):
 
 
 def store_json(json_input):
+    """Log the full JSON response"""
     with open(json_file_name, "a") as f:
         f.write(json_input + '\n')
 
 
 def store_csv(csv_input):
+    """Log the full data in CSV form"""
     with open(csv_file_name, 'a') as csvfile:
         csv_writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         try:
@@ -55,7 +60,7 @@ def store_csv(csv_input):
 
 
 def image_annotate(image_input, text=""):
-    """Uses PIL to annotate the image with response data"""
+    """Uses PIL library to annotate the image with response data"""
     
     img = Image.open(image_input)
     
@@ -63,7 +68,7 @@ def image_annotate(image_input, text=""):
     font = ImageFont.truetype("fonts/UbuntuMono-Regular.ttf")
 
     draw = ImageDraw.Draw(img)
-    draw.multiline_text((10, 10), text, fill=128, font=font)
+    draw.multiline_text((10, 10), text, fill=128, font=font)  # TODO: fix multiline writing
 
     # Save in "images output/"
     img_path = image_input.split("/")
