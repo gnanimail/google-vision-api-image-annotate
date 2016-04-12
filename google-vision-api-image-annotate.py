@@ -63,17 +63,22 @@ def image_annotate(image_input, text=""):
     """Uses PIL library to annotate the image with response data"""
     
     img = Image.open(image_input)
+    img_size = img.size
+    new_img = Image.new('P', (img_size[0] + 200, img_size[1] + 100), color=128)  # New image where old will be copied
+    # TODO: fix 'P and 'RGBA' modes
     
     # font = ImageFont.load_default()  # DONE: TODO: use better font
     font = ImageFont.truetype("fonts/UbuntuMono-Regular.ttf", 16)  # Defined font size
 
-    draw = ImageDraw.Draw(img)
-    draw.multiline_text((10, 10), text, fill=128, font=font)  # multiline_text supported in PIL 3.2.x
+    draw = ImageDraw.Draw(new_img)
+    draw.multiline_text((img_size[0] + 10, 10), text, fill=255, font=font)  # multiline_text supported in PIL 3.2.x
 
     # Save in "images output/"
     img_path = image_input.split("/")
     img_name = img_path[len(img_path) - 1]
-    img.save("images output/" + img_name)
+
+    new_img.paste(img, (0, 0))
+    new_img.save("images output/" + img_name)
 
 
 def main(photo_file):

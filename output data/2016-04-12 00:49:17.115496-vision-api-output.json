@@ -1,0 +1,39 @@
+{
+   "query": "images/github.png", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.85186708, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.63345337, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.58470631, 
+               "mid": "/m/01vkl", 
+               "description": "circle"
+            }, 
+            {
+               "score": 0.57691193, 
+               "mid": "/m/0n0j", 
+               "description": "area"
+            }, 
+            {
+               "score": 0.55630374, 
+               "mid": "/m/03thgk", 
+               "description": "silhouette"
+            }, 
+            {
+               "score": 0.50450128, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }
+         ]
+      }
+   ]
+}
