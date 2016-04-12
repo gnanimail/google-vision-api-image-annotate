@@ -88,3 +88,13 @@ It works as intended and correctly identifies the image as a dog. Extending the 
   ]
 }
 ```
+
+## Data Sets
+
+The Wikimedia Foundation provides regular data dumps at https://dumps.wikimedia.org/
+
+The "Picture of the Year" archives can be found at https://dumps.wikimedia.org/other/poty/
+
+
+
+
