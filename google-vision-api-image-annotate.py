@@ -65,10 +65,10 @@ def image_annotate(image_input, text=""):
     img = Image.open(image_input)
     
     # font = ImageFont.load_default()  # DONE: TODO: use better font
-    font = ImageFont.truetype("fonts/UbuntuMono-Regular.ttf")
+    font = ImageFont.truetype("fonts/UbuntuMono-Regular.ttf", 16)  # Defined font size
 
     draw = ImageDraw.Draw(img)
-    draw.multiline_text((10, 10), text, fill=128, font=font)  # TODO: fix multiline writing
+    draw.multiline_text((10, 10), text, fill=128, font=font)  # multiline_text supported in PIL 3.2.x
 
     # Save in "images output/"
     img_path = image_input.split("/")
@@ -112,15 +112,18 @@ def main(photo_file):
     query = photo_file
     all_labels = ''
     all_text = ''
+    img_labels = 'Labels Found: \n'
+    img_text = 'Text Found: \n'
 
     try:
         labels = response['responses'][0]['labelAnnotations']
         for label in labels:
-            # label = response['responses'][0]['labelAnnotations'][0]['description']
             label_val = label['description']
             score = str(label['score'])
             print('Found label: "%s" with score %s' % (label_val, score))
+
             all_labels += label_val.encode('utf-8') + ' @ ' + score + ', '
+            img_labels += label_val.encode('utf-8') + ' @ ' + score + '\n'
     except KeyError:
         print("N/A labels found")
 
@@ -129,10 +132,11 @@ def main(photo_file):
     try:
         texts = response['responses'][0]['textAnnotations']
         for text in texts:
-            # text = response['responses'][0]['textAnnotations'][0]['description']
             text_val = text['description']
             print('Found text: "%s"' % text_val)
+
             all_text += text_val.encode('utf-8') + ', '
+            img_text += text_val.encode('utf-8') + '\n'
     except KeyError:
         print("N/A text found")
 
@@ -145,7 +149,8 @@ def main(photo_file):
     store_json(response)
     store_csv(csv_response)
 
-    image_annotate(photo_file, all_labels + '\n' + all_text)
+    # image_annotate(photo_file, all_labels + '\n' + all_text)
+    image_annotate(photo_file, img_labels + '\n' + img_text)
 
     return 0
 
