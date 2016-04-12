@@ -96,5 +96,11 @@ The Wikimedia Foundation provides regular data dumps at https://dumps.wikimedia.
 The "Picture of the Year" archives can be found at https://dumps.wikimedia.org/other/poty/
 
 
+## Image Annotations
 
+Image annotations were succesfully done with the Python PIL version 3.2.x library. 
+
+Sample image and annotations:
+
+![github.png annotation](/images output/github-v1.png?raw=true)
 
