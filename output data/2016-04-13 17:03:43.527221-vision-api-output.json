@@ -1,0 +1,109 @@
+{
+   "query": "images/flower.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.98950773, 
+               "mid": "/m/0c9ph5", 
+               "description": "flower"
+            }, 
+            {
+               "score": 0.98592162, 
+               "mid": "/m/06m11", 
+               "description": "rose"
+            }, 
+            {
+               "score": 0.95048666, 
+               "mid": "/m/01fklc", 
+               "description": "pink"
+            }, 
+            {
+               "score": 0.94915491, 
+               "mid": "/m/05s2s", 
+               "description": "plant"
+            }, 
+            {
+               "score": 0.94444442, 
+               "mid": "/m/0dlk0vw", 
+               "description": "floribunda"
+            }, 
+            {
+               "score": 0.92526913, 
+               "mid": "/m/04069l", 
+               "description": "rosa rubiginosa"
+            }, 
+            {
+               "score": 0.91857958, 
+               "mid": "/m/03bmqb", 
+               "description": "flora"
+            }, 
+            {
+               "score": 0.89901209, 
+               "mid": "/m/0587fz", 
+               "description": "rosa arkansana"
+            }, 
+            {
+               "score": 0.89535153, 
+               "mid": "/m/01sh9b", 
+               "description": "rosa dumalis"
+            }, 
+            {
+               "score": 0.88885409, 
+               "mid": "/m/02rpxvs", 
+               "description": "rosa carolina"
+            }, 
+            {
+               "score": 0.88102943, 
+               "mid": "/m/06d1dh", 
+               "description": "rosa gallica"
+            }, 
+            {
+               "score": 0.87430751, 
+               "mid": "/m/0d8ypn", 
+               "description": "rosa nutkana"
+            }, 
+            {
+               "score": 0.85878503, 
+               "mid": "/m/06dmh", 
+               "description": "rose family"
+            }, 
+            {
+               "score": 0.8557846, 
+               "mid": "/m/03hqhp", 
+               "description": "rosa canina"
+            }, 
+            {
+               "score": 0.85, 
+               "mid": "/m/026tnj5", 
+               "description": "rosa acicularis"
+            }, 
+            {
+               "score": 0.82050163, 
+               "mid": "/m/088fh", 
+               "description": "yellow"
+            }, 
+            {
+               "score": 0.80342448, 
+               "mid": "/m/0262qsm", 
+               "description": "rosa pimpinellifolia"
+            }, 
+            {
+               "score": 0.80337745, 
+               "mid": "/m/03c405p", 
+               "description": "rosa californica"
+            }, 
+            {
+               "score": 0.80292374, 
+               "mid": "/m/0fpjlj9", 
+               "description": "garden roses"
+            }, 
+            {
+               "score": 0.8, 
+               "mid": "/m/04sjm", 
+               "description": "flowering plant"
+            }
+         ]
+      }
+   ]
+}

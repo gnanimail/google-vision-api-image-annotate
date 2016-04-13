@@ -68,7 +68,8 @@ def image_annotate(image_input, text=""):
     # DONE: fix 'P and 'RGBA' modes
     
     # font = ImageFont.load_default()  # DONE: use better font
-    font = ImageFont.truetype("fonts/UbuntuMono-Regular.ttf", 16)  # Defined font size
+    # font = ImageFont.truetype("fonts/UbuntuMono-Regular.ttf", 16)  # Defined font size
+    font = ImageFont.truetype("fonts/DroidSansMono.ttf", 14)  # Switched to DroidSansMono
 
     draw = ImageDraw.Draw(new_img)
     draw.multiline_text((img_size[0] + 10, 10), text, fill=(0,0,255), font=font)  # multiline_text supported in PIL 3.2.x
