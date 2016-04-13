@@ -64,21 +64,22 @@ def image_annotate(image_input, text=""):
     
     img = Image.open(image_input)
     img_size = img.size
-    new_img = Image.new('P', (img_size[0] + 200, img_size[1] + 100), color=128)  # New image where old will be copied
-    # TODO: fix 'P and 'RGBA' modes
+    new_img = Image.new('RGBA', (img_size[0] + 300, img_size[1] + 100), color=128)  # New image where old will be copied
+    # DONE: fix 'P and 'RGBA' modes
     
-    # font = ImageFont.load_default()  # DONE: TODO: use better font
+    # font = ImageFont.load_default()  # DONE: use better font
     font = ImageFont.truetype("fonts/UbuntuMono-Regular.ttf", 16)  # Defined font size
 
     draw = ImageDraw.Draw(new_img)
-    draw.multiline_text((img_size[0] + 10, 10), text, fill=255, font=font)  # multiline_text supported in PIL 3.2.x
+    draw.multiline_text((img_size[0] + 10, 10), text, fill=(0,0,255), font=font)  # multiline_text supported in PIL 3.2.x
 
     # Save in "images output/"
     img_path = image_input.split("/")
     img_name = img_path[len(img_path) - 1]
+    img_name_png = img_name.rsplit(".")[0] + ".png"
 
     new_img.paste(img, (0, 0))
-    new_img.save("images output/" + img_name)
+    new_img.save("images output/" + img_name_png)
 
 
 def main(photo_file):
@@ -113,12 +114,13 @@ def main(photo_file):
                 })
     response = service_request.execute()
 
-    # Prepare parsing of responses into relevant fields
+
+    # Prepare parsing of responses into relevant fields. TODO: create separate function for this
     query = photo_file
     all_labels = ''
     all_text = ''
-    img_labels = 'Labels Found: \n'
-    img_text = 'Text Found: \n'
+    img_labels = '**Labels Found: \n'  # For image annotation
+    img_text = '**Text Found: \n'  # For image annotation
 
     try:
         labels = response['responses'][0]['labelAnnotations']
@@ -144,9 +146,11 @@ def main(photo_file):
             img_text += text_val.encode('utf-8') + '\n'
     except KeyError:
         print("N/A text found")
+        img_text += "\nN/A text found"
 
     print('\n= = = = = Image Processed = = = = =\n')
 
+    # Response parsing 
     response["query"] = photo_file
     csv_response = [query, all_labels, all_text]
 
@@ -154,10 +158,7 @@ def main(photo_file):
     store_json(response)
     store_csv(csv_response)
 
-    # image_annotate(photo_file, all_labels + '\n' + all_text)
     image_annotate(photo_file, img_labels + '\n' + img_text)
-
-    return 0
 
 
 if __name__ == '__main__':
