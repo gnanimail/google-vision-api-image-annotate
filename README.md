@@ -2,10 +2,12 @@
 
 This repository includes code originally written during the [Archives Unleashed Hackathon](https://artsweb.uwaterloo.ca/archivesunleashed/) (March 3-5, 2016). 
 
-The "google-vision-api.py" is a command-line tool to work with the Vision API.
+The "google-vision-api.py" and "google-vision-api-image-annotate.py" are command-line tools to work with the Vision API.
 
 ```
 $ python google-vision-api.py [images]
+
+$ python google-vision-api-image-annotate.py [images]
 ```
 
 ## Google Cloud Vision API
@@ -89,6 +91,17 @@ It works as intended and correctly identifies the image as a dog. Extending the 
 }
 ```
 
+## Dependencies
+
+The "google-vision-api-image-annotate.py" script uses the [Pillow 3.2.x library](https://pillow.readthedocs.org/en/3.2.x/index.html). This is different from the PIL library, which will not work with the script.
+
+  ```
+  $ pip install Pillow
+
+  $ pip install --upgrade Pillow
+  ```
+
+
 ## Data Sets
 
 Fonts are from https://github.com/google/fonts
@@ -112,7 +125,7 @@ The function was further developed to write the output text to a separate area a
 
 ![dog.jpg annotation](/images output/dog-v2.png?raw=true)
 
-Using Droid Sans Mono font to improve readability.
+Using Droid Sans Mono font to improve readabilityg.
 
 ![flower.jpg annotation](/images output/flower-v2.png?raw=true)
 
