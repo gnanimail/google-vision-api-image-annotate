@@ -102,5 +102,11 @@ Image annotations were succesfully done with the Python PIL version 3.2.x librar
 
 Sample image and annotations:
 
+This was the first working implementation where text correctly wrote to the image file.
+
 ![github.png annotation](/images output/github-v1.png?raw=true)
+
+The function was further developed to write the output text to a separate area adjacent to the image. This allows the image and text data to be compared side by side.
+
+![dog.jpg annotation](/images output/dog-v2.png?raw=true)
 
