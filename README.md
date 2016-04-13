@@ -112,3 +112,7 @@ The function was further developed to write the output text to a separate area a
 
 ![dog.jpg annotation](/images output/dog-v2.png?raw=true)
 
+Using Droid Sans Mono font to improve readability.
+
+![flower.jpg annotation](/images output/flower-v2.png?raw=true)
+
