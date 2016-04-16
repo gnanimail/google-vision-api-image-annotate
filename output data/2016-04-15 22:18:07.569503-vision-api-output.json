@@ -1,0 +1,4278 @@
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-02 Kaiserin_Augusta_verla\u0308sst_Newyork,_Chromo-Lithographie_von_C._Saltzmann_95,_nr13_aus_G._Wislicenus,_Unsre_Kriegsflotte_-_restored,_borderless.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.90905386, 
+               "mid": "/m/07yv9", 
+               "description": "vehicle"
+            }, 
+            {
+               "score": 0.875, 
+               "mid": "/m/0n2d2", 
+               "description": "ship of the line"
+            }, 
+            {
+               "score": 0.8125, 
+               "mid": "/m/01vbb5", 
+               "description": "ocean liner"
+            }, 
+            {
+               "score": 0.78404009, 
+               "mid": "/m/0591sb", 
+               "description": "windjammer"
+            }, 
+            {
+               "score": 0.75001281, 
+               "mid": "/m/05qdh", 
+               "description": "painting"
+            }, 
+            {
+               "score": 0.72727275, 
+               "mid": "/m/06t9gf", 
+               "description": "east indiaman"
+            }, 
+            {
+               "score": 0.68082803, 
+               "mid": "/m/018ktp", 
+               "description": "watercolor paint"
+            }, 
+            {
+               "score": 0.64868551, 
+               "mid": "/m/06npx", 
+               "description": "sea"
+            }, 
+            {
+               "score": 0.58561146, 
+               "mid": "/m/01rzcn", 
+               "description": "watercraft"
+            }, 
+            {
+               "score": 0.56636947, 
+               "mid": "/m/019jd", 
+               "description": "boat"
+            }, 
+            {
+               "score": 0.5286718, 
+               "mid": "/m/01tt2n", 
+               "description": "caravel"
+            }, 
+            {
+               "score": 0.51204944, 
+               "mid": "/m/019xd", 
+               "description": "battleship"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-04 Sidney_Hall_-_Urania's_Mirror_-_Delphinus,_Sagitta,_Aquila,_and_Antinous.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "fr", 
+               "description": "Daneb el\nL P E C U L A\net\nMy s\nE R\nshaun\na\nDshabele.\nC o R N v s\nAND ANTI NOUS\nSKI\nPar\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 118, 
+                        "x": 61
+                     }, 
+                     {
+                        "y": 118, 
+                        "x": 542
+                     }, 
+                     {
+                        "y": 840, 
+                        "x": 542
+                     }, 
+                     {
+                        "y": 840, 
+                        "x": 61
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Daneb", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 334, 
+                        "x": 61
+                     }, 
+                     {
+                        "y": 334, 
+                        "x": 90
+                     }, 
+                     {
+                        "y": 344, 
+                        "x": 90
+                     }, 
+                     {
+                        "y": 344, 
+                        "x": 61
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "el", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 334, 
+                        "x": 94
+                     }, 
+                     {
+                        "y": 334, 
+                        "x": 102
+                     }, 
+                     {
+                        "y": 344, 
+                        "x": 102
+                     }, 
+                     {
+                        "y": 344, 
+                        "x": 94
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "L", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 131, 
+                        "x": 137
+                     }, 
+                     {
+                        "y": 130, 
+                        "x": 147
+                     }, 
+                     {
+                        "y": 147, 
+                        "x": 148
+                     }, 
+                     {
+                        "y": 148, 
+                        "x": 138
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "P", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 129, 
+                        "x": 158
+                     }, 
+                     {
+                        "y": 128, 
+                        "x": 169
+                     }, 
+                     {
+                        "y": 145, 
+                        "x": 170
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 159
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "E", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 127, 
+                        "x": 183
+                     }, 
+                     {
+                        "y": 126, 
+                        "x": 194
+                     }, 
+                     {
+                        "y": 143, 
+                        "x": 195
+                     }, 
+                     {
+                        "y": 144, 
+                        "x": 184
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "C", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 125, 
+                        "x": 205
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 215
+                     }, 
+                     {
+                        "y": 141, 
+                        "x": 216
+                     }, 
+                     {
+                        "y": 142, 
+                        "x": 206
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "U", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 123, 
+                        "x": 222
+                     }, 
+                     {
+                        "y": 121, 
+                        "x": 245
+                     }, 
+                     {
+                        "y": 138, 
+                        "x": 246
+                     }, 
+                     {
+                        "y": 140, 
+                        "x": 223
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "L", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 121, 
+                        "x": 251
+                     }, 
+                     {
+                        "y": 120, 
+                        "x": 260
+                     }, 
+                     {
+                        "y": 137, 
+                        "x": 261
+                     }, 
+                     {
+                        "y": 138, 
+                        "x": 252
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "A", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 119, 
+                        "x": 270
+                     }, 
+                     {
+                        "y": 118, 
+                        "x": 283
+                     }, 
+                     {
+                        "y": 135, 
+                        "x": 284
+                     }, 
+                     {
+                        "y": 136, 
+                        "x": 271
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "et", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 126, 
+                        "x": 306
+                     }, 
+                     {
+                        "y": 126, 
+                        "x": 324
+                     }, 
+                     {
+                        "y": 137, 
+                        "x": 324
+                     }, 
+                     {
+                        "y": 137, 
+                        "x": 306
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "My", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 134, 
+                        "x": 373
+                     }, 
+                     {
+                        "y": 137, 
+                        "x": 388
+                     }, 
+                     {
+                        "y": 153, 
+                        "x": 385
+                     }, 
+                     {
+                        "y": 151, 
+                        "x": 370
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "s", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 139, 
+                        "x": 399
+                     }, 
+                     {
+                        "y": 141, 
+                        "x": 409
+                     }, 
+                     {
+                        "y": 157, 
+                        "x": 406
+                     }, 
+                     {
+                        "y": 156, 
+                        "x": 396
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "E", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 150, 
+                        "x": 418
+                     }, 
+                     {
+                        "y": 152, 
+                        "x": 429
+                     }, 
+                     {
+                        "y": 168, 
+                        "x": 425
+                     }, 
+                     {
+                        "y": 166, 
+                        "x": 414
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "R", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 155, 
+                        "x": 440
+                     }, 
+                     {
+                        "y": 158, 
+                        "x": 452
+                     }, 
+                     {
+                        "y": 173, 
+                        "x": 448
+                     }, 
+                     {
+                        "y": 171, 
+                        "x": 436
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "shaun", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 409, 
+                        "x": 306
+                     }, 
+                     {
+                        "y": 409, 
+                        "x": 332
+                     }, 
+                     {
+                        "y": 418, 
+                        "x": 332
+                     }, 
+                     {
+                        "y": 418, 
+                        "x": 306
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "a", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 689, 
+                        "x": 219
+                     }, 
+                     {
+                        "y": 689, 
+                        "x": 224
+                     }, 
+                     {
+                        "y": 697, 
+                        "x": 224
+                     }, 
+                     {
+                        "y": 697, 
+                        "x": 219
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Dshabele.", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 700, 
+                        "x": 217
+                     }, 
+                     {
+                        "y": 699, 
+                        "x": 263
+                     }, 
+                     {
+                        "y": 710, 
+                        "x": 263
+                     }, 
+                     {
+                        "y": 711, 
+                        "x": 217
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "C", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 747, 
+                        "x": 128
+                     }, 
+                     {
+                        "y": 748, 
+                        "x": 137
+                     }, 
+                     {
+                        "y": 766, 
+                        "x": 135
+                     }, 
+                     {
+                        "y": 765, 
+                        "x": 126
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "o", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 749, 
+                        "x": 148
+                     }, 
+                     {
+                        "y": 750, 
+                        "x": 157
+                     }, 
+                     {
+                        "y": 768, 
+                        "x": 155
+                     }, 
+                     {
+                        "y": 767, 
+                        "x": 146
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "R", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 750, 
+                        "x": 166
+                     }, 
+                     {
+                        "y": 751, 
+                        "x": 175
+                     }, 
+                     {
+                        "y": 769, 
+                        "x": 173
+                     }, 
+                     {
+                        "y": 768, 
+                        "x": 164
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "N", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 752, 
+                        "x": 184
+                     }, 
+                     {
+                        "y": 753, 
+                        "x": 195
+                     }, 
+                     {
+                        "y": 771, 
+                        "x": 193
+                     }, 
+                     {
+                        "y": 770, 
+                        "x": 182
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "v", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 754, 
+                        "x": 206
+                     }, 
+                     {
+                        "y": 755, 
+                        "x": 215
+                     }, 
+                     {
+                        "y": 773, 
+                        "x": 213
+                     }, 
+                     {
+                        "y": 772, 
+                        "x": 204
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "s", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 755, 
+                        "x": 223
+                     }, 
+                     {
+                        "y": 756, 
+                        "x": 231
+                     }, 
+                     {
+                        "y": 774, 
+                        "x": 229
+                     }, 
+                     {
+                        "y": 773, 
+                        "x": 221
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "AND", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 822, 
+                        "x": 203
+                     }, 
+                     {
+                        "y": 822, 
+                        "x": 247
+                     }, 
+                     {
+                        "y": 840, 
+                        "x": 247
+                     }, 
+                     {
+                        "y": 840, 
+                        "x": 203
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ANTI", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 822, 
+                        "x": 261
+                     }, 
+                     {
+                        "y": 822, 
+                        "x": 322
+                     }, 
+                     {
+                        "y": 840, 
+                        "x": 322
+                     }, 
+                     {
+                        "y": 840, 
+                        "x": 261
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "NOUS", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 822, 
+                        "x": 325
+                     }, 
+                     {
+                        "y": 822, 
+                        "x": 391
+                     }, 
+                     {
+                        "y": 840, 
+                        "x": 391
+                     }, 
+                     {
+                        "y": 840, 
+                        "x": 325
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "SKI", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 368, 
+                        "x": 518
+                     }, 
+                     {
+                        "y": 365, 
+                        "x": 541
+                     }, 
+                     {
+                        "y": 376, 
+                        "x": 542
+                     }, 
+                     {
+                        "y": 379, 
+                        "x": 519
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Par", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 421, 
+                        "x": 518
+                     }, 
+                     {
+                        "y": 421, 
+                        "x": 535
+                     }, 
+                     {
+                        "y": 428, 
+                        "x": 535
+                     }, 
+                     {
+                        "y": 428, 
+                        "x": 518
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.66665065, 
+               "mid": "/m/035qhg", 
+               "description": "fauna"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-05 640px-Glaucus_atlanticus_1_cropped.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.78890914, 
+               "mid": "/m/0404d", 
+               "description": "jewellery"
+            }, 
+            {
+               "score": 0.661493, 
+               "mid": "/m/0c9ph5", 
+               "description": "flower"
+            }, 
+            {
+               "score": 0.60167885, 
+               "mid": "/m/02ws6z", 
+               "description": "chandelier"
+            }, 
+            {
+               "score": 0.54636294, 
+               "mid": "/m/07sx2n", 
+               "description": "natural material"
+            }, 
+            {
+               "score": 0.5012539, 
+               "mid": "/m/0b5gs", 
+               "description": "branch"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-06 Goliath_Poldermolen.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "sv", 
+               "description": "Apna\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 414, 
+                        "x": 541
+                     }, 
+                     {
+                        "y": 414, 
+                        "x": 558
+                     }, 
+                     {
+                        "y": 460, 
+                        "x": 558
+                     }, 
+                     {
+                        "y": 460, 
+                        "x": 541
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Apna", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 415, 
+                        "x": 541
+                     }, 
+                     {
+                        "y": 414, 
+                        "x": 556
+                     }, 
+                     {
+                        "y": 459, 
+                        "x": 558
+                     }, 
+                     {
+                        "y": 460, 
+                        "x": 543
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.98231226, 
+               "mid": "/m/0bxdx", 
+               "description": "windmill"
+            }, 
+            {
+               "score": 0.97713059, 
+               "mid": "/m/045m16", 
+               "description": "mill"
+            }, 
+            {
+               "score": 0.65283036, 
+               "mid": "/m/0dkw5", 
+               "description": "machine"
+            }, 
+            {
+               "score": 0.52668935, 
+               "mid": "/m/03j5zb", 
+               "description": "wind farm"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-07 600px-Streathamladyjayne.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.94366908, 
+               "mid": "/m/05qdh", 
+               "description": "painting"
+            }, 
+            {
+               "score": 0.93492079, 
+               "mid": "/m/01g317", 
+               "description": "person"
+            }, 
+            {
+               "score": 0.90178573, 
+               "mid": "/m/068jd", 
+               "description": "photograph"
+            }, 
+            {
+               "score": 0.84853464, 
+               "mid": "/m/01dv4h", 
+               "description": "portrait"
+            }, 
+            {
+               "score": 0.82408035, 
+               "mid": "/m/0jjw", 
+               "description": "art"
+            }, 
+            {
+               "score": 0.72689313, 
+               "mid": "/m/02pkb8", 
+               "description": "lady"
+            }, 
+            {
+               "score": 0.67973852, 
+               "mid": "/m/07bxq", 
+               "description": "tourism"
+            }, 
+            {
+               "score": 0.61939692, 
+               "mid": "/m/04syw", 
+               "description": "monarch"
+            }, 
+            {
+               "score": 0.56658179, 
+               "mid": "/m/04rjz", 
+               "description": "middle ages"
+            }, 
+            {
+               "score": 0.54165626, 
+               "mid": "/m/047vlmn", 
+               "description": "outerwear"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-08 Fe\u0301lix_Nadar_1820-1910_portraits_Jules_Verne_(restoration).jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.9630425, 
+               "mid": "/m/01g317", 
+               "description": "person"
+            }, 
+            {
+               "score": 0.95478904, 
+               "mid": "/m/03q69", 
+               "description": "hair"
+            }, 
+            {
+               "score": 0.93080175, 
+               "mid": "/m/05qdh", 
+               "description": "painting"
+            }, 
+            {
+               "score": 0.93018967, 
+               "mid": "/m/0ds5b", 
+               "description": "facial hair"
+            }, 
+            {
+               "score": 0.90178573, 
+               "mid": "/m/068jd", 
+               "description": "photograph"
+            }, 
+            {
+               "score": 0.8803575, 
+               "mid": "/m/05wkw", 
+               "description": "photography"
+            }, 
+            {
+               "score": 0.8699767, 
+               "mid": "/m/01dv4h", 
+               "description": "portrait"
+            }, 
+            {
+               "score": 0.80089355, 
+               "mid": "/m/0chml9", 
+               "description": "portrait photography"
+            }, 
+            {
+               "score": 0.78919876, 
+               "mid": "/m/0ds4x", 
+               "description": "hairstyle"
+            }, 
+            {
+               "score": 0.76953387, 
+               "mid": "/m/063km", 
+               "description": "profession"
+            }, 
+            {
+               "score": 0.76079017, 
+               "mid": "/m/015h_t", 
+               "description": "beard"
+            }, 
+            {
+               "score": 0.64947307, 
+               "mid": "/m/0bby24z", 
+               "description": "moustache"
+            }, 
+            {
+               "score": 0.63752884, 
+               "mid": "/m/019p5q", 
+               "description": "gentleman"
+            }, 
+            {
+               "score": 0.61914712, 
+               "mid": "/m/04syw", 
+               "description": "monarch"
+            }, 
+            {
+               "score": 0.5553062, 
+               "mid": "/m/01443y", 
+               "description": "headgear"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-09 Hypothymis_azurea_-_Kaeng_Krachan.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.987075, 
+               "mid": "/m/015p6", 
+               "description": "bird"
+            }, 
+            {
+               "score": 0.97465193, 
+               "mid": "/m/01c4rd", 
+               "description": "beak"
+            }, 
+            {
+               "score": 0.97443914, 
+               "mid": "/m/01280g", 
+               "description": "wildlife"
+            }, 
+            {
+               "score": 0.97036719, 
+               "mid": "/m/05h0n", 
+               "description": "nature"
+            }, 
+            {
+               "score": 0.95412606, 
+               "mid": "/m/0jbk", 
+               "description": "animal"
+            }, 
+            {
+               "score": 0.94251913, 
+               "mid": "/m/01g5v", 
+               "description": "blue"
+            }, 
+            {
+               "score": 0.89757967, 
+               "mid": "/m/09686", 
+               "description": "vertebrate"
+            }, 
+            {
+               "score": 0.74657172, 
+               "mid": "/m/02cqfm", 
+               "description": "close up"
+            }, 
+            {
+               "score": 0.71462893, 
+               "mid": "/m/01kpg0", 
+               "description": "bluebird"
+            }, 
+            {
+               "score": 0.68181819, 
+               "mid": "/m/015lbc", 
+               "description": "crow like bird"
+            }, 
+            {
+               "score": 0.66665065, 
+               "mid": "/m/035qhg", 
+               "description": "fauna"
+            }, 
+            {
+               "score": 0.59156114, 
+               "mid": "/m/0q0qv", 
+               "description": "wren"
+            }, 
+            {
+               "score": 0.55925703, 
+               "mid": "/m/0gv35", 
+               "description": "macaw"
+            }, 
+            {
+               "score": 0.53123385, 
+               "mid": "/m/0b5gs", 
+               "description": "branch"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-10 Van_der_Grinten_projection_SW.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.89736605, 
+               "mid": "/m/02j71", 
+               "description": "earth"
+            }, 
+            {
+               "score": 0.85938579, 
+               "mid": "/m/05qc_", 
+               "description": "planet"
+            }, 
+            {
+               "score": 0.84046948, 
+               "mid": "/m/09nm_", 
+               "description": "world"
+            }, 
+            {
+               "score": 0.8147741, 
+               "mid": "/m/01ctsf", 
+               "description": "atmosphere"
+            }, 
+            {
+               "score": 0.79691368, 
+               "mid": "/m/01d9ll", 
+               "description": "astronomical object"
+            }, 
+            {
+               "score": 0.79456311, 
+               "mid": "/m/04_tb", 
+               "description": "map"
+            }, 
+            {
+               "score": 0.77066231, 
+               "mid": "/m/02v0m2", 
+               "description": "diagram"
+            }, 
+            {
+               "score": 0.74484968, 
+               "mid": "/m/0j85", 
+               "description": "arctic ocean"
+            }, 
+            {
+               "score": 0.71201909, 
+               "mid": "/m/01ctry", 
+               "description": "atmosphere of earth"
+            }, 
+            {
+               "score": 0.62556893, 
+               "mid": "/m/01q_cy", 
+               "description": "globe"
+            }, 
+            {
+               "score": 0.56786889, 
+               "mid": "/m/01kr8f", 
+               "description": "illustration"
+            }, 
+            {
+               "score": 0.53129011, 
+               "mid": "/m/01vkl", 
+               "description": "circle"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-11 Common_Leopard_Phalanta_phalantha.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "lb", 
+               "description": "le-\nV\"\nae\neX\u30a2reen\n\u4e3fA\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 140, 
+                        "x": 256
+                     }, 
+                     {
+                        "y": 140, 
+                        "x": 601
+                     }, 
+                     {
+                        "y": 289, 
+                        "x": 601
+                     }, 
+                     {
+                        "y": 289, 
+                        "x": 256
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "le", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 172, 
+                        "x": 602
+                     }, 
+                     {
+                        "y": 180, 
+                        "x": 598
+                     }, 
+                     {
+                        "y": 176, 
+                        "x": 588
+                     }, 
+                     {
+                        "y": 167, 
+                        "x": 592
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "-", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 182, 
+                        "x": 598
+                     }, 
+                     {
+                        "y": 186, 
+                        "x": 596
+                     }, 
+                     {
+                        "y": 181, 
+                        "x": 586
+                     }, 
+                     {
+                        "y": 177, 
+                        "x": 588
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "V", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 264, 
+                        "x": 346
+                     }, 
+                     {
+                        "y": 275, 
+                        "x": 349
+                     }, 
+                     {
+                        "y": 277, 
+                        "x": 339
+                     }, 
+                     {
+                        "y": 266, 
+                        "x": 336
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\"", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 277, 
+                        "x": 349
+                     }, 
+                     {
+                        "y": 287, 
+                        "x": 351
+                     }, 
+                     {
+                        "y": 289, 
+                        "x": 342
+                     }, 
+                     {
+                        "y": 279, 
+                        "x": 339
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ae", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 247, 
+                        "x": 594
+                     }, 
+                     {
+                        "y": 258, 
+                        "x": 592
+                     }, 
+                     {
+                        "y": 251, 
+                        "x": 556
+                     }, 
+                     {
+                        "y": 241, 
+                        "x": 558
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "eX", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 151, 
+                        "x": 369
+                     }, 
+                     {
+                        "y": 164, 
+                        "x": 369
+                     }, 
+                     {
+                        "y": 163, 
+                        "x": 338
+                     }, 
+                     {
+                        "y": 150, 
+                        "x": 338
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u30a2", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 150, 
+                        "x": 327
+                     }, 
+                     {
+                        "y": 158, 
+                        "x": 327
+                     }, 
+                     {
+                        "y": 157, 
+                        "x": 309
+                     }, 
+                     {
+                        "y": 149, 
+                        "x": 309
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "reen", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 147, 
+                        "x": 301
+                     }, 
+                     {
+                        "y": 164, 
+                        "x": 301
+                     }, 
+                     {
+                        "y": 163, 
+                        "x": 257
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 257
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u4e3f", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 140, 
+                        "x": 529
+                     }, 
+                     {
+                        "y": 151, 
+                        "x": 530
+                     }, 
+                     {
+                        "y": 153, 
+                        "x": 510
+                     }, 
+                     {
+                        "y": 142, 
+                        "x": 509
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "A", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 145, 
+                        "x": 505
+                     }, 
+                     {
+                        "y": 153, 
+                        "x": 506
+                     }, 
+                     {
+                        "y": 155, 
+                        "x": 485
+                     }, 
+                     {
+                        "y": 147, 
+                        "x": 484
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.93223226, 
+               "mid": "/m/05s2s", 
+               "description": "plant"
+            }, 
+            {
+               "score": 0.920069, 
+               "mid": "/m/0c9ph5", 
+               "description": "flower"
+            }, 
+            {
+               "score": 0.87023771, 
+               "mid": "/m/088fh", 
+               "description": "yellow"
+            }, 
+            {
+               "score": 0.85440964, 
+               "mid": "/m/03vt0", 
+               "description": "insect"
+            }, 
+            {
+               "score": 0.83126944, 
+               "mid": "/m/03bmqb", 
+               "description": "flora"
+            }, 
+            {
+               "score": 0.81229168, 
+               "mid": "/m/02cqfm", 
+               "description": "close up"
+            }, 
+            {
+               "score": 0.8, 
+               "mid": "/m/04sjm", 
+               "description": "flowering plant"
+            }, 
+            {
+               "score": 0.78669637, 
+               "mid": "/m/03xxp", 
+               "description": "invertebrate"
+            }, 
+            {
+               "score": 0.75785768, 
+               "mid": "/m/03rbf6", 
+               "description": "macro photography"
+            }, 
+            {
+               "score": 0.70715058, 
+               "mid": "/m/0cyf8", 
+               "description": "butterfly"
+            }, 
+            {
+               "score": 0.66665065, 
+               "mid": "/m/035qhg", 
+               "description": "fauna"
+            }, 
+            {
+               "score": 0.63976765, 
+               "mid": "/m/0d_2m", 
+               "description": "moths and butterflies"
+            }, 
+            {
+               "score": 0.62042642, 
+               "mid": "/m/09t49", 
+               "description": "leaf"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-12 Sega_Mega_Drive_and_Genesis.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "16-BIT\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 102, 
+                        "x": 400
+                     }, 
+                     {
+                        "y": 102, 
+                        "x": 471
+                     }, 
+                     {
+                        "y": 132, 
+                        "x": 471
+                     }, 
+                     {
+                        "y": 132, 
+                        "x": 400
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "16-BIT", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 102, 
+                        "x": 403
+                     }, 
+                     {
+                        "y": 114, 
+                        "x": 471
+                     }, 
+                     {
+                        "y": 132, 
+                        "x": 468
+                     }, 
+                     {
+                        "y": 120, 
+                        "x": 400
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.84036255, 
+               "mid": "/m/02mf1n", 
+               "description": "gadget"
+            }, 
+            {
+               "score": 0.74004215, 
+               "mid": "/m/03b6_4", 
+               "description": "steering wheel"
+            }, 
+            {
+               "score": 0.67577904, 
+               "mid": "/m/0541p", 
+               "description": "multimedia"
+            }, 
+            {
+               "score": 0.66666669, 
+               "mid": "/m/0h91fqv", 
+               "description": "audio"
+            }, 
+            {
+               "score": 0.60389513, 
+               "mid": "/m/030swj", 
+               "description": "mobile device"
+            }, 
+            {
+               "score": 0.54496568, 
+               "mid": "/m/07c1v", 
+               "description": "technology"
+            }, 
+            {
+               "score": 0.52050066, 
+               "mid": "/m/0q56v", 
+               "description": "game controller"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-13 Corpus_Christi_College_New_Court,_Cambridge,_UK_-_Diliff.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "o\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 222, 
+                        "x": 497
+                     }, 
+                     {
+                        "y": 222, 
+                        "x": 505
+                     }, 
+                     {
+                        "y": 234, 
+                        "x": 505
+                     }, 
+                     {
+                        "y": 234, 
+                        "x": 497
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "o", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 222, 
+                        "x": 497
+                     }, 
+                     {
+                        "y": 222, 
+                        "x": 505
+                     }, 
+                     {
+                        "y": 234, 
+                        "x": 505
+                     }, 
+                     {
+                        "y": 234, 
+                        "x": 497
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.81856316, 
+               "mid": "/m/05zp8", 
+               "description": "palace"
+            }, 
+            {
+               "score": 0.77702391, 
+               "mid": "/m/05_5t0l", 
+               "description": "landmark"
+            }, 
+            {
+               "score": 0.678746, 
+               "mid": "/m/038t8_", 
+               "description": "estate"
+            }, 
+            {
+               "score": 0.67513996, 
+               "mid": "/m/0cgh4", 
+               "description": "building"
+            }, 
+            {
+               "score": 0.66862577, 
+               "mid": "/m/0grl_", 
+               "description": "ch\u00e2teau"
+            }, 
+            {
+               "score": 0.52281892, 
+               "mid": "/m/01klb9", 
+               "description": "plaza"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-14 Reza_Abbasi_-_Two_Lovers_(1630).jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "sv", 
+               "description": "LX\ne_\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 128, 
+                        "x": 52
+                     }, 
+                     {
+                        "y": 128, 
+                        "x": 415
+                     }, 
+                     {
+                        "y": 362, 
+                        "x": 415
+                     }, 
+                     {
+                        "y": 362, 
+                        "x": 52
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "LX", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 128, 
+                        "x": 404
+                     }, 
+                     {
+                        "y": 128, 
+                        "x": 415
+                     }, 
+                     {
+                        "y": 144, 
+                        "x": 415
+                     }, 
+                     {
+                        "y": 144, 
+                        "x": 404
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "e_", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 363, 
+                        "x": 53
+                     }, 
+                     {
+                        "y": 342, 
+                        "x": 52
+                     }, 
+                     {
+                        "y": 342, 
+                        "x": 62
+                     }, 
+                     {
+                        "y": 363, 
+                        "x": 63
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.88084042, 
+               "mid": "/m/0215n", 
+               "description": "cartoon"
+            }, 
+            {
+               "score": 0.69008017, 
+               "mid": "/m/015r61", 
+               "description": "modern art"
+            }, 
+            {
+               "score": 0.60238367, 
+               "mid": "/m/03qtnt", 
+               "description": "miniature"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-15 Jefferson_Memorial_At_Dusk_1.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.91288865, 
+               "mid": "/m/01g5v", 
+               "description": "blue"
+            }, 
+            {
+               "score": 0.75182182, 
+               "mid": "/m/01b3l7", 
+               "description": "dusk"
+            }, 
+            {
+               "score": 0.74589789, 
+               "mid": "/m/090j23", 
+               "description": "water feature"
+            }, 
+            {
+               "score": 0.68538147, 
+               "mid": "/m/07j7r", 
+               "description": "tree"
+            }, 
+            {
+               "score": 0.6589362, 
+               "mid": "/m/02l215", 
+               "description": "reflection"
+            }, 
+            {
+               "score": 0.619552, 
+               "mid": "/m/05zp8", 
+               "description": "palace"
+            }, 
+            {
+               "score": 0.58090091, 
+               "mid": "/m/02ljgl", 
+               "description": "monument"
+            }, 
+            {
+               "score": 0.54631615, 
+               "mid": "/m/02q3d5", 
+               "description": "memorial"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-16 S.M._Linienschiff_Kaiser_Wilhelm_II_-_restoration,_borderless.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "ko", 
+               "description": "guam)\n'\ub298\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 229, 
+                        "x": 412
+                     }, 
+                     {
+                        "y": 229, 
+                        "x": 461
+                     }, 
+                     {
+                        "y": 297, 
+                        "x": 461
+                     }, 
+                     {
+                        "y": 297, 
+                        "x": 412
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "guam", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 229, 
+                        "x": 425
+                     }, 
+                     {
+                        "y": 229, 
+                        "x": 457
+                     }, 
+                     {
+                        "y": 238, 
+                        "x": 457
+                     }, 
+                     {
+                        "y": 238, 
+                        "x": 425
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": ")", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 232, 
+                        "x": 459
+                     }, 
+                     {
+                        "y": 232, 
+                        "x": 461
+                     }, 
+                     {
+                        "y": 236, 
+                        "x": 461
+                     }, 
+                     {
+                        "y": 236, 
+                        "x": 459
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "'", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 279, 
+                        "x": 412
+                     }, 
+                     {
+                        "y": 279, 
+                        "x": 412
+                     }, 
+                     {
+                        "y": 280, 
+                        "x": 412
+                     }, 
+                     {
+                        "y": 280, 
+                        "x": 412
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\ub298", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 281, 
+                        "x": 418
+                     }, 
+                     {
+                        "y": 281, 
+                        "x": 421
+                     }, 
+                     {
+                        "y": 297, 
+                        "x": 420
+                     }, 
+                     {
+                        "y": 297, 
+                        "x": 417
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.94842511, 
+               "mid": "/m/07yv9", 
+               "description": "vehicle"
+            }, 
+            {
+               "score": 0.92856371, 
+               "mid": "/m/01dp1q", 
+               "description": "armored cruiser"
+            }, 
+            {
+               "score": 0.90629423, 
+               "mid": "/m/06q74", 
+               "description": "ship"
+            }, 
+            {
+               "score": 0.875, 
+               "mid": "/m/0n2d2", 
+               "description": "ship of the line"
+            }, 
+            {
+               "score": 0.87070137, 
+               "mid": "/m/02fj9", 
+               "description": "destroyer"
+            }, 
+            {
+               "score": 0.84322792, 
+               "mid": "/m/01n3yx", 
+               "description": "warship"
+            }, 
+            {
+               "score": 0.81911016, 
+               "mid": "/m/019xd", 
+               "description": "battleship"
+            }, 
+            {
+               "score": 0.81817967, 
+               "mid": "/m/019t5_", 
+               "description": "light cruiser"
+            }, 
+            {
+               "score": 0.81510609, 
+               "mid": "/m/0dytr", 
+               "description": "naval ship"
+            }, 
+            {
+               "score": 0.8125, 
+               "mid": "/m/01vbb5", 
+               "description": "ocean liner"
+            }, 
+            {
+               "score": 0.8095451, 
+               "mid": "/m/01fsn2", 
+               "description": "minesweeper"
+            }, 
+            {
+               "score": 0.80603033, 
+               "mid": "/m/01c3xv", 
+               "description": "heavy cruiser"
+            }, 
+            {
+               "score": 0.78912073, 
+               "mid": "/m/02f4n7", 
+               "description": "submarine tender"
+            }, 
+            {
+               "score": 0.72968835, 
+               "mid": "/m/031dt", 
+               "description": "frigate"
+            }, 
+            {
+               "score": 0.713821, 
+               "mid": "/m/019yc", 
+               "description": "battlecruiser"
+            }, 
+            {
+               "score": 0.70453489, 
+               "mid": "/m/079bkr", 
+               "description": "mode of transport"
+            }, 
+            {
+               "score": 0.68397135, 
+               "mid": "/m/04wk59", 
+               "description": "training ship"
+            }, 
+            {
+               "score": 0.67725652, 
+               "mid": "/m/040rqz", 
+               "description": "pre dreadnought battleship"
+            }, 
+            {
+               "score": 0.66666669, 
+               "mid": "/m/02w4k8", 
+               "description": "destroyer escort"
+            }, 
+            {
+               "score": 0.66249371, 
+               "mid": "/m/01v4f7", 
+               "description": "sloop of war"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-17 Axis_axis_(Nagarhole,_2010).jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.97168642, 
+               "mid": "/m/05h0n", 
+               "description": "nature"
+            }, 
+            {
+               "score": 0.91502553, 
+               "mid": "/m/07j7r", 
+               "description": "tree"
+            }, 
+            {
+               "score": 0.88849086, 
+               "mid": "/m/05s2s", 
+               "description": "plant"
+            }, 
+            {
+               "score": 0.85189408, 
+               "mid": "/m/02zr8", 
+               "description": "forest"
+            }, 
+            {
+               "score": 0.82016045, 
+               "mid": "/m/0hnc1", 
+               "description": "woodland"
+            }, 
+            {
+               "score": 0.81511933, 
+               "mid": "/m/02tcwp", 
+               "description": "trunk"
+            }, 
+            {
+               "score": 0.79987162, 
+               "mid": "/m/05fblh", 
+               "description": "habitat"
+            }, 
+            {
+               "score": 0.69633865, 
+               "mid": "/m/083vt", 
+               "description": "wood"
+            }, 
+            {
+               "score": 0.67298543, 
+               "mid": "/m/09t49", 
+               "description": "leaf"
+            }, 
+            {
+               "score": 0.6699816, 
+               "mid": "/m/042g2h", 
+               "description": "old growth forest"
+            }, 
+            {
+               "score": 0.60541403, 
+               "mid": "/m/02py09", 
+               "description": "natural environment"
+            }, 
+            {
+               "score": 0.5082323, 
+               "mid": "/m/0pvlz", 
+               "description": "wetland"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-18 Peter_Paul_Rubens_-_The_Fall_of_Phaeton_(National_Gallery_of_Art).jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.96060264, 
+               "mid": "/m/01g317", 
+               "description": "person"
+            }, 
+            {
+               "score": 0.77618569, 
+               "mid": "/m/04zhd", 
+               "description": "mythology"
+            }, 
+            {
+               "score": 0.67945528, 
+               "mid": "/m/063km", 
+               "description": "profession"
+            }, 
+            {
+               "score": 0.50411791, 
+               "mid": "/m/029m8", 
+               "description": "demon"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-19 Euromaidan_in_Kiev_2014-02-19_12-06.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "ko", 
+               "description": "\uc840\nM\u5244\ntanrtL:\u6fd5\n(Lu\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 330, 
+                        "x": 46
+                     }, 
+                     {
+                        "y": 330, 
+                        "x": 590
+                     }, 
+                     {
+                        "y": 530, 
+                        "x": 590
+                     }, 
+                     {
+                        "y": 530, 
+                        "x": 46
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\uc840", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 336, 
+                        "x": 46
+                     }, 
+                     {
+                        "y": 336, 
+                        "x": 64
+                     }, 
+                     {
+                        "y": 354, 
+                        "x": 64
+                     }, 
+                     {
+                        "y": 354, 
+                        "x": 46
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "M", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 419, 
+                        "x": 579
+                     }, 
+                     {
+                        "y": 419, 
+                        "x": 588
+                     }, 
+                     {
+                        "y": 429, 
+                        "x": 588
+                     }, 
+                     {
+                        "y": 429, 
+                        "x": 579
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u5244", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 430, 
+                        "x": 578
+                     }, 
+                     {
+                        "y": 430, 
+                        "x": 589
+                     }, 
+                     {
+                        "y": 444, 
+                        "x": 590
+                     }, 
+                     {
+                        "y": 444, 
+                        "x": 579
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "tanrtL", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 330, 
+                        "x": 324
+                     }, 
+                     {
+                        "y": 330, 
+                        "x": 334
+                     }, 
+                     {
+                        "y": 356, 
+                        "x": 334
+                     }, 
+                     {
+                        "y": 356, 
+                        "x": 324
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": ":", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 357, 
+                        "x": 326
+                     }, 
+                     {
+                        "y": 357, 
+                        "x": 332
+                     }, 
+                     {
+                        "y": 360, 
+                        "x": 332
+                     }, 
+                     {
+                        "y": 360, 
+                        "x": 326
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u6fd5", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 362, 
+                        "x": 327
+                     }, 
+                     {
+                        "y": 362, 
+                        "x": 333
+                     }, 
+                     {
+                        "y": 376, 
+                        "x": 333
+                     }, 
+                     {
+                        "y": 376, 
+                        "x": 327
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "(", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 515, 
+                        "x": 273
+                     }, 
+                     {
+                        "y": 513, 
+                        "x": 279
+                     }, 
+                     {
+                        "y": 517, 
+                        "x": 280
+                     }, 
+                     {
+                        "y": 519, 
+                        "x": 274
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Lu", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 520, 
+                        "x": 275
+                     }, 
+                     {
+                        "y": 518, 
+                        "x": 281
+                     }, 
+                     {
+                        "y": 528, 
+                        "x": 283
+                     }, 
+                     {
+                        "y": 530, 
+                        "x": 278
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.95205969, 
+               "mid": "/m/03qtwd", 
+               "description": "crowd"
+            }, 
+            {
+               "score": 0.80628604, 
+               "mid": "/m/01nd_n", 
+               "description": "protest"
+            }, 
+            {
+               "score": 0.69504434, 
+               "mid": "/m/09g5pq", 
+               "description": "people"
+            }, 
+            {
+               "score": 0.64221114, 
+               "mid": "/m/03rbzn", 
+               "description": "racewalking"
+            }, 
+            {
+               "score": 0.57163829, 
+               "mid": "/m/01wkk9", 
+               "description": "town square"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-20 Charadrius_mongolus_-_Laem_Pak_Bia.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.98661244, 
+               "mid": "/m/015p6", 
+               "description": "bird"
+            }, 
+            {
+               "score": 0.95625311, 
+               "mid": "/m/0jbk", 
+               "description": "animal"
+            }, 
+            {
+               "score": 0.95613194, 
+               "mid": "/m/01280g", 
+               "description": "wildlife"
+            }, 
+            {
+               "score": 0.94382286, 
+               "mid": "/m/01c4rd", 
+               "description": "beak"
+            }, 
+            {
+               "score": 0.89998931, 
+               "mid": "/m/09686", 
+               "description": "vertebrate"
+            }, 
+            {
+               "score": 0.70811653, 
+               "mid": "/m/01d0z1", 
+               "description": "shorebird"
+            }, 
+            {
+               "score": 0.70181507, 
+               "mid": "/m/013btk", 
+               "description": "lark"
+            }, 
+            {
+               "score": 0.66665065, 
+               "mid": "/m/035qhg", 
+               "description": "fauna"
+            }, 
+            {
+               "score": 0.64861768, 
+               "mid": "/m/0f115", 
+               "description": "charadriiformes"
+            }, 
+            {
+               "score": 0.62032384, 
+               "mid": "/m/0sxvh", 
+               "description": "animal migration"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-21 US-Colonial_(NJ-179)-New_Jersey-25_Mar_1776_OBV.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "T WEL VE SHILLING S.\nNo.\nProclamation\nis mitted by a LAw of the Colony of\nUSA NE V JERSEY, paffed in the Fourteenth Year of the Beign of\nXE\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 68, 
+                        "x": 73
+                     }, 
+                     {
+                        "y": 68, 
+                        "x": 710
+                     }, 
+                     {
+                        "y": 202, 
+                        "x": 710
+                     }, 
+                     {
+                        "y": 202, 
+                        "x": 73
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "T", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 68, 
+                        "x": 120
+                     }, 
+                     {
+                        "y": 68, 
+                        "x": 136
+                     }, 
+                     {
+                        "y": 85, 
+                        "x": 136
+                     }, 
+                     {
+                        "y": 85, 
+                        "x": 120
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "WEL", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 68, 
+                        "x": 141
+                     }, 
+                     {
+                        "y": 68, 
+                        "x": 198
+                     }, 
+                     {
+                        "y": 85, 
+                        "x": 198
+                     }, 
+                     {
+                        "y": 85, 
+                        "x": 141
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "VE", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 69, 
+                        "x": 208
+                     }, 
+                     {
+                        "y": 69, 
+                        "x": 242
+                     }, 
+                     {
+                        "y": 86, 
+                        "x": 242
+                     }, 
+                     {
+                        "y": 86, 
+                        "x": 208
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "SHILLING", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 69, 
+                        "x": 255
+                     }, 
+                     {
+                        "y": 70, 
+                        "x": 407
+                     }, 
+                     {
+                        "y": 87, 
+                        "x": 407
+                     }, 
+                     {
+                        "y": 86, 
+                        "x": 255
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "S.", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 70, 
+                        "x": 416
+                     }, 
+                     {
+                        "y": 70, 
+                        "x": 429
+                     }, 
+                     {
+                        "y": 87, 
+                        "x": 429
+                     }, 
+                     {
+                        "y": 87, 
+                        "x": 416
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "No.", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 71, 
+                        "x": 527
+                     }, 
+                     {
+                        "y": 72, 
+                        "x": 560
+                     }, 
+                     {
+                        "y": 87, 
+                        "x": 559
+                     }, 
+                     {
+                        "y": 86, 
+                        "x": 526
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Proclamation", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 121, 
+                        "x": 179
+                     }, 
+                     {
+                        "y": 121, 
+                        "x": 301
+                     }, 
+                     {
+                        "y": 139, 
+                        "x": 301
+                     }, 
+                     {
+                        "y": 139, 
+                        "x": 179
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "is", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 123, 
+                        "x": 322
+                     }, 
+                     {
+                        "y": 123, 
+                        "x": 337
+                     }, 
+                     {
+                        "y": 147, 
+                        "x": 337
+                     }, 
+                     {
+                        "y": 147, 
+                        "x": 322
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "mitted", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 124, 
+                        "x": 357
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 413
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 413
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 357
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "by", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 123, 
+                        "x": 426
+                     }, 
+                     {
+                        "y": 123, 
+                        "x": 445
+                     }, 
+                     {
+                        "y": 147, 
+                        "x": 445
+                     }, 
+                     {
+                        "y": 147, 
+                        "x": 426
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "a", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 124, 
+                        "x": 455
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 463
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 463
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 455
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "LAw", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 124, 
+                        "x": 472
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 517
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 517
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 472
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "of", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 124, 
+                        "x": 527
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 544
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 544
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 527
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "the", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 124, 
+                        "x": 551
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 578
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 578
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 551
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Colony", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 124, 
+                        "x": 587
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 649
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 649
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 587
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "of", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 123, 
+                        "x": 658
+                     }, 
+                     {
+                        "y": 123, 
+                        "x": 681
+                     }, 
+                     {
+                        "y": 147, 
+                        "x": 681
+                     }, 
+                     {
+                        "y": 147, 
+                        "x": 658
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "USA", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 140, 
+                        "x": 73
+                     }, 
+                     {
+                        "y": 140, 
+                        "x": 112
+                     }, 
+                     {
+                        "y": 161, 
+                        "x": 112
+                     }, 
+                     {
+                        "y": 161, 
+                        "x": 73
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "NE", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 141, 
+                        "x": 123
+                     }, 
+                     {
+                        "y": 141, 
+                        "x": 140
+                     }, 
+                     {
+                        "y": 162, 
+                        "x": 140
+                     }, 
+                     {
+                        "y": 162, 
+                        "x": 123
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "V", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 141, 
+                        "x": 146
+                     }, 
+                     {
+                        "y": 141, 
+                        "x": 162
+                     }, 
+                     {
+                        "y": 162, 
+                        "x": 162
+                     }, 
+                     {
+                        "y": 162, 
+                        "x": 146
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "JERSEY,", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 141, 
+                        "x": 172
+                     }, 
+                     {
+                        "y": 142, 
+                        "x": 247
+                     }, 
+                     {
+                        "y": 163, 
+                        "x": 247
+                     }, 
+                     {
+                        "y": 162, 
+                        "x": 172
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "paffed", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 141, 
+                        "x": 258
+                     }, 
+                     {
+                        "y": 141, 
+                        "x": 309
+                     }, 
+                     {
+                        "y": 169, 
+                        "x": 309
+                     }, 
+                     {
+                        "y": 169, 
+                        "x": 258
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "in", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 141, 
+                        "x": 317
+                     }, 
+                     {
+                        "y": 141, 
+                        "x": 332
+                     }, 
+                     {
+                        "y": 169, 
+                        "x": 332
+                     }, 
+                     {
+                        "y": 169, 
+                        "x": 317
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "the", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 143, 
+                        "x": 342
+                     }, 
+                     {
+                        "y": 143, 
+                        "x": 369
+                     }, 
+                     {
+                        "y": 164, 
+                        "x": 369
+                     }, 
+                     {
+                        "y": 164, 
+                        "x": 342
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Fourteenth", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 143, 
+                        "x": 377
+                     }, 
+                     {
+                        "y": 144, 
+                        "x": 479
+                     }, 
+                     {
+                        "y": 165, 
+                        "x": 479
+                     }, 
+                     {
+                        "y": 164, 
+                        "x": 377
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Year", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 141, 
+                        "x": 488
+                     }, 
+                     {
+                        "y": 141, 
+                        "x": 528
+                     }, 
+                     {
+                        "y": 169, 
+                        "x": 528
+                     }, 
+                     {
+                        "y": 169, 
+                        "x": 488
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "of", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 141, 
+                        "x": 536
+                     }, 
+                     {
+                        "y": 141, 
+                        "x": 557
+                     }, 
+                     {
+                        "y": 169, 
+                        "x": 557
+                     }, 
+                     {
+                        "y": 169, 
+                        "x": 536
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "the", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 145, 
+                        "x": 564
+                     }, 
+                     {
+                        "y": 145, 
+                        "x": 591
+                     }, 
+                     {
+                        "y": 166, 
+                        "x": 591
+                     }, 
+                     {
+                        "y": 166, 
+                        "x": 564
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Beign", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 146, 
+                        "x": 600
+                     }, 
+                     {
+                        "y": 147, 
+                        "x": 650
+                     }, 
+                     {
+                        "y": 168, 
+                        "x": 650
+                     }, 
+                     {
+                        "y": 167, 
+                        "x": 600
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "of", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 146, 
+                        "x": 658
+                     }, 
+                     {
+                        "y": 146, 
+                        "x": 678
+                     }, 
+                     {
+                        "y": 167, 
+                        "x": 678
+                     }, 
+                     {
+                        "y": 167, 
+                        "x": 658
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "XE", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 186, 
+                        "x": 688
+                     }, 
+                     {
+                        "y": 186, 
+                        "x": 710
+                     }, 
+                     {
+                        "y": 202, 
+                        "x": 710
+                     }, 
+                     {
+                        "y": 202, 
+                        "x": 688
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.61074013, 
+               "mid": "/m/015bv3", 
+               "description": "document"
+            }, 
+            {
+               "score": 0.51942956, 
+               "mid": "/m/02p16pn", 
+               "description": "academic certificate"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-22 Darwinius_masillae_PMO_214.214.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.85478383, 
+               "mid": "/m/0521dbh", 
+               "description": "texture"
+            }, 
+            {
+               "score": 0.65575385, 
+               "mid": "/m/02yrp", 
+               "description": "fossil"
+            }, 
+            {
+               "score": 0.62263656, 
+               "mid": "/m/0ftdwy", 
+               "description": "footprint"
+            }, 
+            {
+               "score": 0.58663225, 
+               "mid": "/m/06bt6", 
+               "description": "reptile"
+            }, 
+            {
+               "score": 0.56317812, 
+               "mid": "/m/09qqq", 
+               "description": "wall"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-23 Sidney_Hall_-_Urania's_Mirror_-_Aries_and_Musca_Borealis.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "ca", 
+               "description": "ARTES AND US CA ORE ALTS\nT R\nP E R S E S\nORGII\nP1.16\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 9, 
+                        "x": 63
+                     }, 
+                     {
+                        "y": 9, 
+                        "x": 730
+                     }, 
+                     {
+                        "y": 498, 
+                        "x": 730
+                     }, 
+                     {
+                        "y": 498, 
+                        "x": 63
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ARTES", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 9, 
+                        "x": 196
+                     }, 
+                     {
+                        "y": 9, 
+                        "x": 267
+                     }, 
+                     {
+                        "y": 26, 
+                        "x": 267
+                     }, 
+                     {
+                        "y": 26, 
+                        "x": 196
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "AND", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 10, 
+                        "x": 279
+                     }, 
+                     {
+                        "y": 10, 
+                        "x": 321
+                     }, 
+                     {
+                        "y": 30, 
+                        "x": 321
+                     }, 
+                     {
+                        "y": 30, 
+                        "x": 279
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "US", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 10, 
+                        "x": 357
+                     }, 
+                     {
+                        "y": 10, 
+                        "x": 388
+                     }, 
+                     {
+                        "y": 30, 
+                        "x": 388
+                     }, 
+                     {
+                        "y": 30, 
+                        "x": 357
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "CA", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 10, 
+                        "x": 394
+                     }, 
+                     {
+                        "y": 10, 
+                        "x": 420
+                     }, 
+                     {
+                        "y": 30, 
+                        "x": 420
+                     }, 
+                     {
+                        "y": 30, 
+                        "x": 394
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ORE", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 10, 
+                        "x": 451
+                     }, 
+                     {
+                        "y": 10, 
+                        "x": 501
+                     }, 
+                     {
+                        "y": 26, 
+                        "x": 501
+                     }, 
+                     {
+                        "y": 26, 
+                        "x": 451
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ALTS", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 10, 
+                        "x": 506
+                     }, 
+                     {
+                        "y": 10, 
+                        "x": 557
+                     }, 
+                     {
+                        "y": 26, 
+                        "x": 557
+                     }, 
+                     {
+                        "y": 26, 
+                        "x": 506
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "T", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 29, 
+                        "x": 394
+                     }, 
+                     {
+                        "y": 30, 
+                        "x": 403
+                     }, 
+                     {
+                        "y": 43, 
+                        "x": 401
+                     }, 
+                     {
+                        "y": 42, 
+                        "x": 392
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "R", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 31, 
+                        "x": 415
+                     }, 
+                     {
+                        "y": 32, 
+                        "x": 424
+                     }, 
+                     {
+                        "y": 45, 
+                        "x": 422
+                     }, 
+                     {
+                        "y": 44, 
+                        "x": 413
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "P", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 42, 
+                        "x": 65
+                     }, 
+                     {
+                        "y": 42, 
+                        "x": 75
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 75
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 65
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "E", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 42, 
+                        "x": 88
+                     }, 
+                     {
+                        "y": 42, 
+                        "x": 102
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 102
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 88
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "R", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 42, 
+                        "x": 114
+                     }, 
+                     {
+                        "y": 42, 
+                        "x": 125
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 125
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 114
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "S", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 42, 
+                        "x": 142
+                     }, 
+                     {
+                        "y": 42, 
+                        "x": 151
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 151
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 142
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "E", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 42, 
+                        "x": 165
+                     }, 
+                     {
+                        "y": 42, 
+                        "x": 176
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 176
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 165
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "S", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 42, 
+                        "x": 216
+                     }, 
+                     {
+                        "y": 42, 
+                        "x": 227
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 227
+                     }, 
+                     {
+                        "y": 57, 
+                        "x": 216
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ORGII", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 472, 
+                        "x": 67
+                     }, 
+                     {
+                        "y": 485, 
+                        "x": 114
+                     }, 
+                     {
+                        "y": 498, 
+                        "x": 111
+                     }, 
+                     {
+                        "y": 486, 
+                        "x": 63
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "P1.16", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 14, 
+                        "x": 698
+                     }, 
+                     {
+                        "y": 14, 
+                        "x": 730
+                     }, 
+                     {
+                        "y": 25, 
+                        "x": 730
+                     }, 
+                     {
+                        "y": 25, 
+                        "x": 698
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.78212529, 
+               "mid": "/m/07glzq", 
+               "description": "sketch"
+            }, 
+            {
+               "score": 0.66665065, 
+               "mid": "/m/035qhg", 
+               "description": "fauna"
+            }, 
+            {
+               "score": 0.60732216, 
+               "mid": "/m/0djmp", 
+               "description": "ancient history"
+            }, 
+            {
+               "score": 0.58189762, 
+               "mid": "/m/02csf", 
+               "description": "drawing"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-24 Thurston_the_Great_Magician_-_Strobridge_Litho._Co..jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "no", 
+               "description": "MAGICIAN\nT HH EL\nOG REAT\nS\nTHE WO\nHOW OF THE UNIVERSE\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 704, 
+                        "x": 35
+                     }, 
+                     {
+                        "y": 704, 
+                        "x": 559
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 559
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 35
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "MAGICIAN", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 704, 
+                        "x": 262
+                     }, 
+                     {
+                        "y": 704, 
+                        "x": 558
+                     }, 
+                     {
+                        "y": 763, 
+                        "x": 558
+                     }, 
+                     {
+                        "y": 763, 
+                        "x": 262
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "T", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 712, 
+                        "x": 116
+                     }, 
+                     {
+                        "y": 712, 
+                        "x": 140
+                     }, 
+                     {
+                        "y": 730, 
+                        "x": 140
+                     }, 
+                     {
+                        "y": 730, 
+                        "x": 116
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "HH", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 712, 
+                        "x": 145
+                     }, 
+                     {
+                        "y": 712, 
+                        "x": 171
+                     }, 
+                     {
+                        "y": 730, 
+                        "x": 171
+                     }, 
+                     {
+                        "y": 730, 
+                        "x": 145
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "EL", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 712, 
+                        "x": 180
+                     }, 
+                     {
+                        "y": 712, 
+                        "x": 201
+                     }, 
+                     {
+                        "y": 730, 
+                        "x": 201
+                     }, 
+                     {
+                        "y": 730, 
+                        "x": 180
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "OG", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 739, 
+                        "x": 70
+                     }, 
+                     {
+                        "y": 739, 
+                        "x": 97
+                     }, 
+                     {
+                        "y": 763, 
+                        "x": 97
+                     }, 
+                     {
+                        "y": 763, 
+                        "x": 70
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "REAT", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 739, 
+                        "x": 113
+                     }, 
+                     {
+                        "y": 739, 
+                        "x": 245
+                     }, 
+                     {
+                        "y": 763, 
+                        "x": 245
+                     }, 
+                     {
+                        "y": 763, 
+                        "x": 113
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "S", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 776, 
+                        "x": 219
+                     }, 
+                     {
+                        "y": 776, 
+                        "x": 239
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 239
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 219
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "THE", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 777, 
+                        "x": 35
+                     }, 
+                     {
+                        "y": 777, 
+                        "x": 84
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 84
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 35
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "WO", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 778, 
+                        "x": 95
+                     }, 
+                     {
+                        "y": 778, 
+                        "x": 137
+                     }, 
+                     {
+                        "y": 792, 
+                        "x": 137
+                     }, 
+                     {
+                        "y": 792, 
+                        "x": 95
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "HOW", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 778, 
+                        "x": 243
+                     }, 
+                     {
+                        "y": 778, 
+                        "x": 304
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 304
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 243
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "OF", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 778, 
+                        "x": 316
+                     }, 
+                     {
+                        "y": 778, 
+                        "x": 351
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 351
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 316
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "THE", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 778, 
+                        "x": 358
+                     }, 
+                     {
+                        "y": 778, 
+                        "x": 409
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 409
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 358
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "UNIVERSE", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 778, 
+                        "x": 422
+                     }, 
+                     {
+                        "y": 778, 
+                        "x": 559
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 559
+                     }, 
+                     {
+                        "y": 794, 
+                        "x": 422
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.9167009, 
+               "mid": "/m/01n5jq", 
+               "description": "poster"
+            }, 
+            {
+               "score": 0.64500886, 
+               "mid": "/m/011s0", 
+               "description": "advertising"
+            }, 
+            {
+               "score": 0.61074013, 
+               "mid": "/m/015bv3", 
+               "description": "document"
+            }, 
+            {
+               "score": 0.55720747, 
+               "mid": "/m/02vxn", 
+               "description": "film"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-25 Isurus_oxyrinchus_Machoire.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.72406155, 
+               "mid": "/m/01k9lj", 
+               "description": "jaw"
+            }, 
+            {
+               "score": 0.61819786, 
+               "mid": "/m/06msq", 
+               "description": "sculpture"
+            }, 
+            {
+               "score": 0.56507188, 
+               "mid": "/m/07zy1", 
+               "description": "velociraptor"
+            }, 
+            {
+               "score": 0.54383111, 
+               "mid": "/m/016m2d", 
+               "description": "skull"
+            }, 
+            {
+               "score": 0.529423, 
+               "mid": "/m/06bt6", 
+               "description": "reptile"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-26 Victor_Hugo_by_E\u0301tienne_Carjat_1876_-_full.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.96317065, 
+               "mid": "/m/01g317", 
+               "description": "person"
+            }, 
+            {
+               "score": 0.95385343, 
+               "mid": "/m/05qdh", 
+               "description": "painting"
+            }, 
+            {
+               "score": 0.9178279, 
+               "mid": "/m/01dv4h", 
+               "description": "portrait"
+            }, 
+            {
+               "score": 0.90234447, 
+               "mid": "/m/05wkw", 
+               "description": "photography"
+            }, 
+            {
+               "score": 0.90178573, 
+               "mid": "/m/068jd", 
+               "description": "photograph"
+            }, 
+            {
+               "score": 0.89327919, 
+               "mid": "/m/0chml9", 
+               "description": "portrait photography"
+            }, 
+            {
+               "score": 0.8524462, 
+               "mid": "/m/04yx4", 
+               "description": "man"
+            }, 
+            {
+               "score": 0.82535028, 
+               "mid": "/m/0jjw", 
+               "description": "art"
+            }, 
+            {
+               "score": 0.778644, 
+               "mid": "/m/05zppz", 
+               "description": "male"
+            }, 
+            {
+               "score": 0.71579224, 
+               "mid": "/m/063km", 
+               "description": "profession"
+            }, 
+            {
+               "score": 0.66323143, 
+               "mid": "/m/0ds5b", 
+               "description": "facial hair"
+            }, 
+            {
+               "score": 0.596679, 
+               "mid": "/m/019p5q", 
+               "description": "gentleman"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-27 900px-Cylindrical_equal-area_projection_SW.jpg", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.74594104, 
+               "mid": "/m/09nm_", 
+               "description": "world"
+            }, 
+            {
+               "score": 0.73104006, 
+               "mid": "/m/0866r", 
+               "description": "weather"
+            }, 
+            {
+               "score": 0.63844007, 
+               "mid": "/m/04_tb", 
+               "description": "map"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/wiki-pic-of-the-day/2016-02-28 800px-Westfaelischer_Friede_in_Muenster_(Gerard_Terborch_1648).jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "zh", 
+               "description": "ese\n\u6bd4\neine\nA\nero\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 124, 
+                        "x": 50
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 596
+                     }, 
+                     {
+                        "y": 327, 
+                        "x": 596
+                     }, 
+                     {
+                        "y": 327, 
+                        "x": 50
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ese", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 254, 
+                        "x": 548
+                     }, 
+                     {
+                        "y": 246, 
+                        "x": 576
+                     }, 
+                     {
+                        "y": 320, 
+                        "x": 596
+                     }, 
+                     {
+                        "y": 327, 
+                        "x": 568
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u6bd4", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 124, 
+                        "x": 394
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 400
+                     }, 
+                     {
+                        "y": 131, 
+                        "x": 400
+                     }, 
+                     {
+                        "y": 131, 
+                        "x": 394
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "eine", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 211, 
+                        "x": 301
+                     }, 
+                     {
+                        "y": 208, 
+                        "x": 320
+                     }, 
+                     {
+                        "y": 286, 
+                        "x": 330
+                     }, 
+                     {
+                        "y": 288, 
+                        "x": 312
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "A", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 261, 
+                        "x": 230
+                     }, 
+                     {
+                        "y": 260, 
+                        "x": 242
+                     }, 
+                     {
+                        "y": 273, 
+                        "x": 243
+                     }, 
+                     {
+                        "y": 274, 
+                        "x": 231
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ero", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 266, 
+                        "x": 52
+                     }, 
+                     {
+                        "y": 267, 
+                        "x": 67
+                     }, 
+                     {
+                        "y": 312, 
+                        "x": 65
+                     }, 
+                     {
+                        "y": 311, 
+                        "x": 50
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.9160707, 
+               "mid": "/m/01g317", 
+               "description": "person"
+            }, 
+            {
+               "score": 0.66356146, 
+               "mid": "/m/09jwl", 
+               "description": "musician"
+            }, 
+            {
+               "score": 0.62492383, 
+               "mid": "/m/063km", 
+               "description": "profession"
+            }
+         ]
+      }
+   ]
+}

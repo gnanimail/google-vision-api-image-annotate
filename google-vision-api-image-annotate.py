@@ -35,7 +35,7 @@ def process_images(image_input):
         for file_name in os.listdir(dir_name):
             ext = os.path.splitext(file_name)
         
-            if file_name not in ignore_files and ext[1].lower() in image_exts and not os.path.isdir(fn):
+            if file_name not in ignore_files and ext[1].lower() in image_exts and not os.path.isdir(file_name):
                 print(file_name)
                 main(dir_name + file_name)
     else:
