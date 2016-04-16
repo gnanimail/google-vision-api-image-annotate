@@ -119,14 +119,14 @@ Sample image and annotations:
 
 This was the first working implementation where text correctly wrote to the image file.
 
-![github.png annotation](/images output/github-v1.png?raw=true)
+![github.png annotation](/images-output/github-v1.png?raw=true)
 
 The function was further developed to write the output text to a separate area adjacent to the image. This allows the image and text data to be compared side by side in a single view.
 
-![dog.jpg annotation](/images output/dog-v2.png?raw=true)
+![dog.jpg annotation](/images-output/dog-v2.png?raw=true)
 
 Using Droid Sans Mono font to improve readability.
 
-![flower.jpg annotation](/images output/flower-v2.png?raw=true)
+![flower.jpg annotation](/images-output/flower-v2.png?raw=true)
 
-![github.png annotation](/images output/github-v3.png?raw=true)
+![github.png annotation](/images-output/github-v3.png?raw=true)
