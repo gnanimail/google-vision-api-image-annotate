@@ -130,3 +130,13 @@ Using Droid Sans Mono font to improve readability.
 ![flower.jpg annotation](/images-output/flower-v2.png?raw=true)
 
 ![github.png annotation](/images-output/github-v3.png?raw=true)
+
+
+## Gallery
+
+**wiki-pic-of-the-day-feb-2016**
+
+This folder contains image annotations for the Wikipedia Picture of the Day images for February 2016. Each image has been renamed by adding the date (YYYY-MM-DD) it was selected for the picture of the day.
+
+
+
