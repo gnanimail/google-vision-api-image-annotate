@@ -1,0 +1,116 @@
+{
+   "query": "images/google.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "cy", 
+               "description": "Google\nOD\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 50, 
+                        "x": 315
+                     }, 
+                     {
+                        "y": 50, 
+                        "x": 504
+                     }, 
+                     {
+                        "y": 183, 
+                        "x": 504
+                     }, 
+                     {
+                        "y": 183, 
+                        "x": 315
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Google", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 176, 
+                        "x": 505
+                     }, 
+                     {
+                        "y": 183, 
+                        "x": 505
+                     }, 
+                     {
+                        "y": 183, 
+                        "x": 316
+                     }, 
+                     {
+                        "y": 176, 
+                        "x": 316
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "OD", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 50, 
+                        "x": 332
+                     }, 
+                     {
+                        "y": 50, 
+                        "x": 421
+                     }, 
+                     {
+                        "y": 178, 
+                        "x": 421
+                     }, 
+                     {
+                        "y": 178, 
+                        "x": 332
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.85452431, 
+               "mid": "/m/0jjw", 
+               "description": "art"
+            }, 
+            {
+               "score": 0.8027032, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.72785395, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.60036963, 
+               "mid": "/m/07d0f", 
+               "description": "trademark"
+            }, 
+            {
+               "score": 0.578869, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }, 
+            {
+               "score": 0.57691193, 
+               "mid": "/m/0n0j", 
+               "description": "area"
+            }, 
+            {
+               "score": 0.53163034, 
+               "mid": "/m/01vkl", 
+               "description": "circle"
+            }
+         ]
+      }
+   ]
+}

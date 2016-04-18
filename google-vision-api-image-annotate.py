@@ -37,10 +37,12 @@ def process_images(image_input):
         
             if file_name not in ignore_files and ext[1].lower() in image_exts and not os.path.isdir(file_name):
                 print(file_name)
-                main(dir_name + file_name)
+                resp = main(dir_name + file_name)
+                parse_response(dir_name + file_name, resp)
     else:
         print(image_input)
-        main(image_input)
+        resp = main(image_input)
+        parse_response(image_input, resp)
 
 
 def store_json(json_input):
@@ -80,7 +82,7 @@ def image_annotate(image_input, text=""):
     img_name_png = img_name.rsplit(".")[0] + ".png"
 
     new_img.paste(img, (0, 0))
-    new_img.save("images output/" + img_name_png)
+    new_img.save("images-output/" + img_name_png)
 
 
 def main(photo_file):
@@ -115,8 +117,12 @@ def main(photo_file):
                 })
     response = service_request.execute()
 
+    return response
 
-    # Prepare parsing of responses into relevant fields. TODO: create separate function for this
+
+def parse_response(photo_file, response):
+    """ Parse response into relevant fields"""
+    response = response
     query = photo_file
     all_labels = ''
     all_text = ''
