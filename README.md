@@ -140,7 +140,7 @@ Using Droid Sans Mono font to improve readability.
 This folder contains image annotations for the Wikipedia Picture of the Day images for February 2016. Each image has been renamed by adding the date (YYYY-MM-DD) it was selected for the picture of the day.
 
 
-**tech-companies**
+**tech-companies-logos**
 
 List derived from https://en.wikipedia.org/wiki/List_of_largest_Internet_companies. 
 

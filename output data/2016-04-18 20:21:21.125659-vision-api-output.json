@@ -1,0 +1,2253 @@
+{
+   "query": "images/tech-companies/400px-EBay_logo.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "fil", 
+               "description": "ebay\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 24, 
+                        "x": 140
+                     }, 
+                     {
+                        "y": 24, 
+                        "x": 399
+                     }, 
+                     {
+                        "y": 159, 
+                        "x": 399
+                     }, 
+                     {
+                        "y": 159, 
+                        "x": 140
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "ebay", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 24, 
+                        "x": 140
+                     }, 
+                     {
+                        "y": 24, 
+                        "x": 399
+                     }, 
+                     {
+                        "y": 159, 
+                        "x": 399
+                     }, 
+                     {
+                        "y": 159, 
+                        "x": 140
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.94959313, 
+               "mid": "/m/07s6nbt", 
+               "description": "text"
+            }, 
+            {
+               "score": 0.85915536, 
+               "mid": "/m/0jjw", 
+               "description": "art"
+            }, 
+            {
+               "score": 0.84470445, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.77926254, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.66774964, 
+               "mid": "/m/07d0f", 
+               "description": "trademark"
+            }, 
+            {
+               "score": 0.57691193, 
+               "mid": "/m/0n0j", 
+               "description": "area"
+            }, 
+            {
+               "score": 0.54732323, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/400px-LinkedIn_Logo_2013.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "Linked\nin\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 12, 
+                        "x": 1
+                     }, 
+                     {
+                        "y": 12, 
+                        "x": 285
+                     }, 
+                     {
+                        "y": 88, 
+                        "x": 285
+                     }, 
+                     {
+                        "y": 88, 
+                        "x": 1
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Linked", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 12, 
+                        "x": 1
+                     }, 
+                     {
+                        "y": 12, 
+                        "x": 285
+                     }, 
+                     {
+                        "y": 88, 
+                        "x": 285
+                     }, 
+                     {
+                        "y": 88, 
+                        "x": 1
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "in", 
+               "boundingPoly": {
+                  "vertices": [
+                     {}, 
+                     {
+                        "x": -1
+                     }, 
+                     {
+                        "y": -1, 
+                        "x": -1
+                     }, 
+                     {
+                        "y": -1
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.91080695, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.86337465, 
+               "mid": "/m/0jjw", 
+               "description": "art"
+            }, 
+            {
+               "score": 0.851938, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.61478305, 
+               "mid": "/m/07d0f", 
+               "description": "trademark"
+            }, 
+            {
+               "score": 0.59633011, 
+               "mid": "/m/03tqj", 
+               "description": "icon"
+            }, 
+            {
+               "score": 0.58169818, 
+               "mid": "/m/02ngh", 
+               "description": "emoticon"
+            }, 
+            {
+               "score": 0.51875252, 
+               "mid": "/m/07c1v", 
+               "description": "technology"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/400px-Yandex_logo_en.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "uz", 
+               "description": "Yandex\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 1
+                     }, 
+                     {
+                        "y": 1, 
+                        "x": 398
+                     }, 
+                     {
+                        "y": 156, 
+                        "x": 398
+                     }, 
+                     {
+                        "y": 156
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Yandex", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 1
+                     }, 
+                     {
+                        "y": 1, 
+                        "x": 398
+                     }, 
+                     {
+                        "y": 156, 
+                        "x": 398
+                     }, 
+                     {
+                        "y": 156
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.94959313, 
+               "mid": "/m/07s6nbt", 
+               "description": "text"
+            }, 
+            {
+               "score": 0.89138019, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.81935376, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.68278807, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }, 
+            {
+               "score": 0.57691193, 
+               "mid": "/m/0n0j", 
+               "description": "area"
+            }, 
+            {
+               "score": 0.5366503, 
+               "mid": "/m/0dgsmq8", 
+               "description": "artwork"
+            }, 
+            {
+               "score": 0.52047396, 
+               "mid": "/m/07d0f", 
+               "description": "trademark"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/440px-Amazon.com-Logo.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "amazon.com\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 1, 
+                        "x": 3
+                     }, 
+                     {
+                        "y": 1, 
+                        "x": 425
+                     }, 
+                     {
+                        "y": 80, 
+                        "x": 425
+                     }, 
+                     {
+                        "y": 80, 
+                        "x": 3
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "amazon.com", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 1, 
+                        "x": 3
+                     }, 
+                     {
+                        "y": 1, 
+                        "x": 425
+                     }, 
+                     {
+                        "y": 80, 
+                        "x": 425
+                     }, 
+                     {
+                        "y": 80, 
+                        "x": 3
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.94959313, 
+               "mid": "/m/07s6nbt", 
+               "description": "text"
+            }, 
+            {
+               "score": 0.89307809, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.8684001, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.64746577, 
+               "mid": "/m/07d0f", 
+               "description": "trademark"
+            }, 
+            {
+               "score": 0.57161117, 
+               "mid": "/m/0dgsmq8", 
+               "description": "artwork"
+            }, 
+            {
+               "score": 0.51941317, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/440px-Facebook_New_Logo_(2015).svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "facebook\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 33, 
+                        "x": 39
+                     }, 
+                     {
+                        "y": 33, 
+                        "x": 402
+                     }, 
+                     {
+                        "y": 136, 
+                        "x": 402
+                     }, 
+                     {
+                        "y": 136, 
+                        "x": 39
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "facebook", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 33, 
+                        "x": 39
+                     }, 
+                     {
+                        "y": 34, 
+                        "x": 402
+                     }, 
+                     {
+                        "y": 136, 
+                        "x": 402
+                     }, 
+                     {
+                        "y": 135, 
+                        "x": 39
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.94959313, 
+               "mid": "/m/07s6nbt", 
+               "description": "text"
+            }, 
+            {
+               "score": 0.87944245, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.81785941, 
+               "mid": "/m/013s93", 
+               "description": "t shirt"
+            }, 
+            {
+               "score": 0.74534976, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/440px-Google_2015_logo.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "Google\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "x": 2
+                     }, 
+                     {
+                        "x": 436
+                     }, 
+                     {
+                        "y": 140, 
+                        "x": 436
+                     }, 
+                     {
+                        "y": 140, 
+                        "x": 2
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Google", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "x": 2
+                     }, 
+                     {
+                        "x": 436
+                     }, 
+                     {
+                        "y": 140, 
+                        "x": 436
+                     }, 
+                     {
+                        "y": 140, 
+                        "x": 2
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.85590279, 
+               "mid": "/m/0jjw", 
+               "description": "art"
+            }, 
+            {
+               "score": 0.79775679, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.72157043, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.60251486, 
+               "mid": "/m/07d0f", 
+               "description": "trademark"
+            }, 
+            {
+               "score": 0.60067523, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }, 
+            {
+               "score": 0.57691193, 
+               "mid": "/m/0n0j", 
+               "description": "area"
+            }, 
+            {
+               "score": 0.543844, 
+               "mid": "/m/01vkl", 
+               "description": "circle"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/440px-TripAdvisor_logo_en.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "od trip\nadvisor\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {}, 
+                     {
+                        "x": 439
+                     }, 
+                     {
+                        "y": 68, 
+                        "x": 439
+                     }, 
+                     {
+                        "y": 68
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "od", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 2
+                     }, 
+                     {
+                        "y": 2, 
+                        "x": 66
+                     }, 
+                     {
+                        "y": 68, 
+                        "x": 66
+                     }, 
+                     {
+                        "y": 68
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "trip", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 2, 
+                        "x": 99
+                     }, 
+                     {
+                        "y": 2, 
+                        "x": 211
+                     }, 
+                     {
+                        "y": 68, 
+                        "x": 211
+                     }, 
+                     {
+                        "y": 68, 
+                        "x": 99
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "advisor", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "x": 216
+                     }, 
+                     {
+                        "x": 439
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 439
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 216
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.94959313, 
+               "mid": "/m/07s6nbt", 
+               "description": "text"
+            }, 
+            {
+               "score": 0.8229869, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.63238019, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/440px-Yahoo!_logo.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "to", 
+               "description": "AHOO\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 94, 
+                        "x": 320
+                     }, 
+                     {
+                        "y": 94, 
+                        "x": 423
+                     }, 
+                     {
+                        "y": 102, 
+                        "x": 423
+                     }, 
+                     {
+                        "y": 102, 
+                        "x": 320
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "AHOO", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 94, 
+                        "x": 424
+                     }, 
+                     {
+                        "y": 102, 
+                        "x": 424
+                     }, 
+                     {
+                        "y": 102, 
+                        "x": 321
+                     }, 
+                     {
+                        "y": 94, 
+                        "x": 321
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.86691755, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.76128143, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }, 
+            {
+               "score": 0.6, 
+               "mid": "/m/0h8kxbv", 
+               "description": "body jewelry"
+            }, 
+            {
+               "score": 0.57495815, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/450px-Rakuten_logo_2.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "eu", 
+               "description": "Rakuten\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "x": 81
+                     }, 
+                     {
+                        "x": 448
+                     }, 
+                     {
+                        "y": 71, 
+                        "x": 448
+                     }, 
+                     {
+                        "y": 71, 
+                        "x": 81
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Rakuten", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "x": 82
+                     }, 
+                     {
+                        "x": 449
+                     }, 
+                     {
+                        "y": 71, 
+                        "x": 449
+                     }, 
+                     {
+                        "y": 71, 
+                        "x": 82
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.87852257, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.83702004, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }, 
+            {
+               "score": 0.78995657, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.52511364, 
+               "mid": "/m/0dgsmq8", 
+               "description": "artwork"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/456px-Baidu.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "ja", 
+               "description": "Bai 28\u767e\u5ea6\nBaiaD\u767e\u5ea6\nU\nd\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 55, 
+                        "x": 8
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 446
+                     }, 
+                     {
+                        "y": 149, 
+                        "x": 446
+                     }, 
+                     {
+                        "y": 149, 
+                        "x": 8
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Bai", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 72, 
+                        "x": 8
+                     }, 
+                     {
+                        "y": 72, 
+                        "x": 155
+                     }, 
+                     {
+                        "y": 148, 
+                        "x": 155
+                     }, 
+                     {
+                        "y": 148, 
+                        "x": 8
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "28", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 56, 
+                        "x": 190
+                     }, 
+                     {
+                        "y": 56, 
+                        "x": 288
+                     }, 
+                     {
+                        "y": 150, 
+                        "x": 288
+                     }, 
+                     {
+                        "y": 150, 
+                        "x": 190
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u767e\u5ea6", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 72, 
+                        "x": 290
+                     }, 
+                     {
+                        "y": 72, 
+                        "x": 446
+                     }, 
+                     {
+                        "y": 148, 
+                        "x": 446
+                     }, 
+                     {
+                        "y": 148, 
+                        "x": 290
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "BaiaD", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 66, 
+                        "x": 8
+                     }, 
+                     {
+                        "y": 66, 
+                        "x": 286
+                     }, 
+                     {
+                        "y": 149, 
+                        "x": 286
+                     }, 
+                     {
+                        "y": 149, 
+                        "x": 8
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u767e\u5ea6", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 71, 
+                        "x": 292
+                     }, 
+                     {
+                        "y": 71, 
+                        "x": 444
+                     }, 
+                     {
+                        "y": 149, 
+                        "x": 444
+                     }, 
+                     {
+                        "y": 149, 
+                        "x": 292
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "U", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 103, 
+                        "x": 223
+                     }, 
+                     {
+                        "y": 103, 
+                        "x": 254
+                     }, 
+                     {
+                        "y": 137, 
+                        "x": 254
+                     }, 
+                     {
+                        "y": 137, 
+                        "x": 223
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "d", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 89, 
+                        "x": 184
+                     }, 
+                     {
+                        "y": 89, 
+                        "x": 217
+                     }, 
+                     {
+                        "y": 138, 
+                        "x": 217
+                     }, 
+                     {
+                        "y": 138, 
+                        "x": 184
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.57691193, 
+               "mid": "/m/0n0j", 
+               "description": "area"
+            }, 
+            {
+               "score": 0.53845197, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/500px-Expedia_Inc._logo.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "expedia inc\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 99, 
+                        "x": 102
+                     }, 
+                     {
+                        "y": 99, 
+                        "x": 488
+                     }, 
+                     {
+                        "y": 159, 
+                        "x": 488
+                     }, 
+                     {
+                        "y": 159, 
+                        "x": 102
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "expedia", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 99, 
+                        "x": 102
+                     }, 
+                     {
+                        "y": 99, 
+                        "x": 355
+                     }, 
+                     {
+                        "y": 159, 
+                        "x": 355
+                     }, 
+                     {
+                        "y": 159, 
+                        "x": 102
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "inc", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 99, 
+                        "x": 390
+                     }, 
+                     {
+                        "y": 99, 
+                        "x": 488
+                     }, 
+                     {
+                        "y": 159, 
+                        "x": 488
+                     }, 
+                     {
+                        "y": 159, 
+                        "x": 390
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.77047175, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.74235106, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.57691193, 
+               "mid": "/m/0n0j", 
+               "description": "area"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/500px-Groupon_Logo.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "fr", 
+               "description": "GROUPON\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 15, 
+                        "x": 8
+                     }, 
+                     {
+                        "y": 15, 
+                        "x": 481
+                     }, 
+                     {
+                        "y": 91, 
+                        "x": 481
+                     }, 
+                     {
+                        "y": 91, 
+                        "x": 8
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "GROUPON", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 15, 
+                        "x": 9
+                     }, 
+                     {
+                        "y": 15, 
+                        "x": 482
+                     }, 
+                     {
+                        "y": 91, 
+                        "x": 482
+                     }, 
+                     {
+                        "y": 91, 
+                        "x": 9
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.94959313, 
+               "mid": "/m/07s6nbt", 
+               "description": "text"
+            }, 
+            {
+               "score": 0.90309888, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.88704455, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.64689577, 
+               "mid": "/m/05c0n6k", 
+               "description": "label"
+            }, 
+            {
+               "score": 0.57850593, 
+               "mid": "/m/07d0f", 
+               "description": "trademark"
+            }, 
+            {
+               "score": 0.57691193, 
+               "mid": "/m/0n0j", 
+               "description": "area"
+            }, 
+            {
+               "score": 0.56358206, 
+               "mid": "/m/0dgsmq8", 
+               "description": "artwork"
+            }, 
+            {
+               "score": 0.561275, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/500px-Priceline-group-logo.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "en", 
+               "description": "Priceline Group\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 28, 
+                        "x": 142
+                     }, 
+                     {
+                        "y": 28, 
+                        "x": 489
+                     }, 
+                     {
+                        "y": 90, 
+                        "x": 489
+                     }, 
+                     {
+                        "y": 90, 
+                        "x": 142
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Priceline", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 28, 
+                        "x": 142
+                     }, 
+                     {
+                        "y": 28, 
+                        "x": 340
+                     }, 
+                     {
+                        "y": 90, 
+                        "x": 340
+                     }, 
+                     {
+                        "y": 90, 
+                        "x": 142
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Group", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 28, 
+                        "x": 352
+                     }, 
+                     {
+                        "y": 28, 
+                        "x": 489
+                     }, 
+                     {
+                        "y": 90, 
+                        "x": 489
+                     }, 
+                     {
+                        "y": 90, 
+                        "x": 352
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.94959313, 
+               "mid": "/m/07s6nbt", 
+               "description": "text"
+            }, 
+            {
+               "score": 0.89392203, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.74644732, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/500px-Tencent_Logo.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "it", 
+               "description": "Tencent\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 13, 
+                        "x": 2
+                     }, 
+                     {
+                        "y": 13, 
+                        "x": 367
+                     }, 
+                     {
+                        "y": 65, 
+                        "x": 367
+                     }, 
+                     {
+                        "y": 65, 
+                        "x": 2
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Tencent", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 13, 
+                        "x": 2
+                     }, 
+                     {
+                        "y": 13, 
+                        "x": 367
+                     }, 
+                     {
+                        "y": 65, 
+                        "x": 367
+                     }, 
+                     {
+                        "y": 65, 
+                        "x": 2
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.8315897, 
+               "mid": "/m/0jjw", 
+               "description": "art"
+            }, 
+            {
+               "score": 0.82377064, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.76930434, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.6267134, 
+               "mid": "/m/09cx8", 
+               "description": "finger"
+            }, 
+            {
+               "score": 0.60115296, 
+               "mid": "/m/07d0f", 
+               "description": "trademark"
+            }, 
+            {
+               "score": 0.59786373, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }, 
+            {
+               "score": 0.57726, 
+               "mid": "/m/02ngh", 
+               "description": "emoticon"
+            }, 
+            {
+               "score": 0.54705745, 
+               "mid": "/m/03tqj", 
+               "description": "icon"
+            }, 
+            {
+               "score": 0.51465636, 
+               "mid": "/m/0dgsmq8", 
+               "description": "artwork"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/520px-Alibaba_Group_logo_2.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "zh", 
+               "description": "E2\nAlibaba Group\n\u963f\u91cc\u5df4\u5df4\u96c6\u56e2\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 14, 
+                        "x": 17
+                     }, 
+                     {
+                        "y": 14, 
+                        "x": 496
+                     }, 
+                     {
+                        "y": 96, 
+                        "x": 496
+                     }, 
+                     {
+                        "y": 96, 
+                        "x": 17
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "E2", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 14, 
+                        "x": 20
+                     }, 
+                     {
+                        "y": 19, 
+                        "x": 139
+                     }, 
+                     {
+                        "y": 96, 
+                        "x": 136
+                     }, 
+                     {
+                        "y": 91, 
+                        "x": 17
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Alibaba", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 18, 
+                        "x": 140
+                     }, 
+                     {
+                        "y": 18, 
+                        "x": 356
+                     }, 
+                     {
+                        "y": 51, 
+                        "x": 356
+                     }, 
+                     {
+                        "y": 51, 
+                        "x": 140
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "Group", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 19, 
+                        "x": 371
+                     }, 
+                     {
+                        "y": 19, 
+                        "x": 496
+                     }, 
+                     {
+                        "y": 61, 
+                        "x": 496
+                     }, 
+                     {
+                        "y": 61, 
+                        "x": 371
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u963f\u91cc\u5df4\u5df4", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 62, 
+                        "x": 186
+                     }, 
+                     {
+                        "y": 62, 
+                        "x": 303
+                     }, 
+                     {
+                        "y": 91, 
+                        "x": 303
+                     }, 
+                     {
+                        "y": 91, 
+                        "x": 186
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u96c6\u56e2", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 62, 
+                        "x": 308
+                     }, 
+                     {
+                        "y": 62, 
+                        "x": 367
+                     }, 
+                     {
+                        "y": 91, 
+                        "x": 367
+                     }, 
+                     {
+                        "y": 91, 
+                        "x": 308
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.87721282, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.79775721, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.61074013, 
+               "mid": "/m/015bv3", 
+               "description": "document"
+            }, 
+            {
+               "score": 0.57691193, 
+               "mid": "/m/0n0j", 
+               "description": "area"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/Asos-logo.jpg", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "uz", 
+               "description": "asos\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 6, 
+                        "x": 6
+                     }, 
+                     {
+                        "y": 6, 
+                        "x": 172
+                     }, 
+                     {
+                        "y": 53, 
+                        "x": 172
+                     }, 
+                     {
+                        "y": 53, 
+                        "x": 6
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "asos", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 6, 
+                        "x": 6
+                     }, 
+                     {
+                        "y": 6, 
+                        "x": 172
+                     }, 
+                     {
+                        "y": 53, 
+                        "x": 172
+                     }, 
+                     {
+                        "y": 53, 
+                        "x": 6
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.6, 
+               "mid": "/m/0h8kxbv", 
+               "description": "body jewelry"
+            }, 
+            {
+               "score": 0.59680319, 
+               "mid": "/m/0138tl", 
+               "description": "toy"
+            }, 
+            {
+               "score": 0.55157882, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/JD_logo.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "ko", 
+               "description": "\u4eac\u4e1c\nD\uc815\n. COM\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 38, 
+                        "x": 150
+                     }, 
+                     {
+                        "y": 38, 
+                        "x": 399
+                     }, 
+                     {
+                        "y": 131, 
+                        "x": 399
+                     }, 
+                     {
+                        "y": 131, 
+                        "x": 150
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u4eac\u4e1c", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 38, 
+                        "x": 284
+                     }, 
+                     {
+                        "y": 39, 
+                        "x": 397
+                     }, 
+                     {
+                        "y": 83, 
+                        "x": 397
+                     }, 
+                     {
+                        "y": 82, 
+                        "x": 284
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "D", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 41, 
+                        "x": 150
+                     }, 
+                     {
+                        "y": 41, 
+                        "x": 281
+                     }, 
+                     {
+                        "y": 131, 
+                        "x": 281
+                     }, 
+                     {
+                        "y": 131, 
+                        "x": 150
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\uc815", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 41, 
+                        "x": 283
+                     }, 
+                     {
+                        "y": 41, 
+                        "x": 295
+                     }, 
+                     {
+                        "y": 127, 
+                        "x": 295
+                     }, 
+                     {
+                        "y": 127, 
+                        "x": 283
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": ".", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 112, 
+                        "x": 269
+                     }, 
+                     {
+                        "y": 112, 
+                        "x": 278
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 279
+                     }, 
+                     {
+                        "y": 124, 
+                        "x": 270
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "COM", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 92, 
+                        "x": 283
+                     }, 
+                     {
+                        "y": 87, 
+                        "x": 397
+                     }, 
+                     {
+                        "y": 126, 
+                        "x": 399
+                     }, 
+                     {
+                        "y": 131, 
+                        "x": 285
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.86429155, 
+               "mid": "/m/0jjw", 
+               "description": "art"
+            }, 
+            {
+               "score": 0.61468643, 
+               "mid": "/m/02ngh", 
+               "description": "emoticon"
+            }, 
+            {
+               "score": 0.5906508, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.58675689, 
+               "mid": "/m/07c1v", 
+               "description": "technology"
+            }, 
+            {
+               "score": 0.56472903, 
+               "mid": "/m/03tqj", 
+               "description": "icon"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/NetEaselogo.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "et", 
+               "description": "\u7db2\u6613NETEASE\nwww.163.com\nW-163-com\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "x": 1
+                     }, 
+                     {
+                        "x": 179
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 179
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 1
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "\u7db2\u6613", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "x": 1
+                     }, 
+                     {
+                        "x": 69
+                     }, 
+                     {
+                        "y": 31, 
+                        "x": 69
+                     }, 
+                     {
+                        "y": 31, 
+                        "x": 1
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "NETEASE", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 13, 
+                        "x": 82
+                     }, 
+                     {
+                        "y": 16, 
+                        "x": 179
+                     }, 
+                     {
+                        "y": 35, 
+                        "x": 178
+                     }, 
+                     {
+                        "y": 32, 
+                        "x": 81
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "www.163.com", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 42, 
+                        "x": 2
+                     }, 
+                     {
+                        "y": 42, 
+                        "x": 177
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 177
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 2
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "W", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 46, 
+                        "x": 40
+                     }, 
+                     {
+                        "y": 46, 
+                        "x": 50
+                     }, 
+                     {
+                        "y": 54, 
+                        "x": 50
+                     }, 
+                     {
+                        "y": 54, 
+                        "x": 40
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "-", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 42, 
+                        "x": 59
+                     }, 
+                     {
+                        "y": 42, 
+                        "x": 66
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 66
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 59
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "163", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 42, 
+                        "x": 68
+                     }, 
+                     {
+                        "y": 42, 
+                        "x": 113
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 113
+                     }, 
+                     {
+                        "y": 55, 
+                        "x": 68
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "-", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 45, 
+                        "x": 122
+                     }, 
+                     {
+                        "y": 45, 
+                        "x": 131
+                     }, 
+                     {
+                        "y": 54, 
+                        "x": 131
+                     }, 
+                     {
+                        "y": 54, 
+                        "x": 122
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "com", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 45, 
+                        "x": 133
+                     }, 
+                     {
+                        "y": 45, 
+                        "x": 177
+                     }, 
+                     {
+                        "y": 54, 
+                        "x": 177
+                     }, 
+                     {
+                        "y": 54, 
+                        "x": 133
+                     }
+                  ]
+               }
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/Netflix_2015_logo.svg.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "mt", 
+               "description": "NETFLIX\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 1
+                     }, 
+                     {
+                        "y": 1, 
+                        "x": 497
+                     }, 
+                     {
+                        "y": 133, 
+                        "x": 497
+                     }, 
+                     {
+                        "y": 133
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "NETFLIX", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 1, 
+                        "x": 1
+                     }, 
+                     {
+                        "y": 1, 
+                        "x": 498
+                     }, 
+                     {
+                        "y": 133, 
+                        "x": 498
+                     }, 
+                     {
+                        "y": 133, 
+                        "x": 1
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.84290856, 
+               "mid": "/m/03gq5hm", 
+               "description": "font"
+            }, 
+            {
+               "score": 0.7135151, 
+               "mid": "/m/0177t1", 
+               "description": "plaid"
+            }, 
+            {
+               "score": 0.57691193, 
+               "mid": "/m/0n0j", 
+               "description": "area"
+            }, 
+            {
+               "score": 0.56523192, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }, 
+            {
+               "score": 0.5259971, 
+               "mid": "/m/03120", 
+               "description": "flag"
+            }, 
+            {
+               "score": 0.521166, 
+               "mid": "/m/0hwky", 
+               "description": "pattern"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/SFDC_logo.png", 
+   "responses": [
+      {
+         "textAnnotations": [
+            {
+               "locale": "es", 
+               "description": "salesforce\n", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 70, 
+                        "x": 42
+                     }, 
+                     {
+                        "y": 70, 
+                        "x": 255
+                     }, 
+                     {
+                        "y": 109, 
+                        "x": 255
+                     }, 
+                     {
+                        "y": 109, 
+                        "x": 42
+                     }
+                  ]
+               }
+            }, 
+            {
+               "description": "salesforce", 
+               "boundingPoly": {
+                  "vertices": [
+                     {
+                        "y": 70, 
+                        "x": 42
+                     }, 
+                     {
+                        "y": 70, 
+                        "x": 255
+                     }, 
+                     {
+                        "y": 109, 
+                        "x": 255
+                     }, 
+                     {
+                        "y": 109, 
+                        "x": 42
+                     }
+                  ]
+               }
+            }
+         ], 
+         "labelAnnotations": [
+            {
+               "score": 0.94959313, 
+               "mid": "/m/07s6nbt", 
+               "description": "text"
+            }, 
+            {
+               "score": 0.80103028, 
+               "mid": "/m/04f6rz", 
+               "description": "turquoise"
+            }, 
+            {
+               "score": 0.76093388, 
+               "mid": "/m/09x0r", 
+               "description": "speech"
+            }, 
+            {
+               "score": 0.67199588, 
+               "mid": "/m/07bg4p", 
+               "description": "heart"
+            }, 
+            {
+               "score": 0.64689577, 
+               "mid": "/m/05c0n6k", 
+               "description": "label"
+            }
+         ]
+      }
+   ]
+}
+{
+   "query": "images/tech-companies/Twitter_bird_logo_2012.svg.png", 
+   "responses": [
+      {
+         "labelAnnotations": [
+            {
+               "score": 0.86640424, 
+               "mid": "/m/0215n", 
+               "description": "cartoon"
+            }, 
+            {
+               "score": 0.76130372, 
+               "mid": "/m/09cx8", 
+               "description": "finger"
+            }, 
+            {
+               "score": 0.6769352, 
+               "mid": "/m/04hgtk", 
+               "description": "head"
+            }, 
+            {
+               "score": 0.67482948, 
+               "mid": "/m/03g09t", 
+               "description": "clip art"
+            }, 
+            {
+               "score": 0.58967048, 
+               "mid": "/m/0dwx7", 
+               "description": "logo"
+            }, 
+            {
+               "score": 0.57770705, 
+               "mid": "/m/0dgsmq8", 
+               "description": "artwork"
+            }, 
+            {
+               "score": 0.52031112, 
+               "mid": "/m/01bmhj", 
+               "description": "thumb"
+            }
+         ]
+      }
+   ]
+}
