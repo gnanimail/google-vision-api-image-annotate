@@ -66,7 +66,10 @@ def image_annotate(image_input, text=""):
     
     img = Image.open(image_input)
     img_size = img.size
-    new_img = Image.new('RGBA', (img_size[0] + 300, img_size[1] + 100), color=128)  # New image where old will be copied
+    add_height = 15 * len(text.split('\n'))  # 15 px is a rough estimation of each line
+    add_width = 0  # TODO
+
+    new_img = Image.new('RGBA', (img_size[0] + 300, img_size[1] + add_height), color=128)  # New image where old will be copied
     # DONE: fix 'P and 'RGBA' modes
     
     # font = ImageFont.load_default()  # DONE: use better font
