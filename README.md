@@ -57,7 +57,7 @@ Don't forget to set up your credentials for the CLI to work:
 
 The "Getting Started" tutorial provides a dog.jpg image to run in the first API call. 
 
-![dog.jpg](/images/dog.jpg?raw=true)
+![dog.jpg](https://github.com/nchah/google-vision-api/blob/master/images/dog.jpg)
 
 It works as intended and correctly identifies the image as a dog. Extending the maxResults returns even more results as follows.
 ```
@@ -119,28 +119,30 @@ Sample image and annotations:
 
 This was the first working implementation where text correctly wrote to the image file.
 
-![github.png annotation](/images-output/github-v1.png?raw=true)
+![github.png annotation](https://github.com/nchah/google-vision-api/blob/master/images-output/github-v1.png)
 
 The function was further developed to write the output text to a separate area adjacent to the image. This allows the image and text data to be compared side by side in a single view.
 
-![dog.jpg annotation](/images-output/dog-v2.png?raw=true)
+![dog.jpg annotation](https://github.com/nchah/google-vision-api/blob/master/images-output/dog-v2.png)
 
 Using Droid Sans Mono font to improve readability.
 
-![flower.jpg annotation](/images-output/flower-v2.png?raw=true)
+![flower.jpg annotation](https://github.com/nchah/google-vision-api/blob/master/images-output/flower-v2.png)
 
-![github.png annotation](/images-output/github-v3.png?raw=true)
+![github.png annotation](https://github.com/nchah/google-vision-api/blob/master/images-output/github-v3.png)
 
 
 ## Gallery
 
 
-**wiki-pic-of-the-day-feb-2016**
+### wiki-pic-of-the-day-feb-2016
 
 This folder contains image annotations for the Wikipedia Picture of the Day images for February 2016. Each image has been renamed by adding the date (YYYY-MM-DD) it was selected for the picture of the day.
 
+![wiki-pick-of-the-day-feb-2016 sample](https://github.com/nchah/google-vision-api/blob/master/gallery/wiki-pic-of-the-day-feb-2016/2016-02-02%20Kaiserin_Augusta_verl%C3%A4sst_Newyork%2C_Chromo-Lithographie_von_C.png)
 
-**tech-companies-logos**
 
-List derived from https://en.wikipedia.org/wiki/List_of_largest_Internet_companies. 
+### tech-companies-logos
+
+List of tech compaines was derived from https://en.wikipedia.org/wiki/List_of_largest_Internet_companies. 
 
