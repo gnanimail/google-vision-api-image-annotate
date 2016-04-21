@@ -144,5 +144,7 @@ This folder contains image annotations for the Wikipedia Picture of the Day imag
 
 ### tech-companies-logos
 
-List of tech compaines was derived from https://en.wikipedia.org/wiki/List_of_largest_Internet_companies. 
+This folder contains various logo images. The list of tech compaines was derived from https://en.wikipedia.org/wiki/List_of_largest_Internet_companies. 
+
+![tech-companies-logos sample](https://github.com/nchah/google-vision-api/blob/master/gallery/tech-companies-logos/440px-Google_2015_logo.png)
 
