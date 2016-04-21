@@ -25,6 +25,7 @@ csv_file_name = "output data/" + timestamp + "-vision-api-output.csv"
 
 def process_images(image_input):
     """Determines whether to run the API on a single image or a directory of images """
+
     image_exts = ['.bmp', '.gif', '.jpg', '.jpeg', '.png']
     ignore_files = ['.DS_Store']  # For Mac OS X 
 
@@ -47,12 +48,14 @@ def process_images(image_input):
 
 def store_json(json_input):
     """Log the full JSON response"""
+
     with open(json_file_name, "a") as f:
         f.write(json_input + '\n')
 
 
 def store_csv(csv_input):
     """Log the full data in CSV form"""
+
     with open(csv_file_name, 'a') as csvfile:
         csv_writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         try:
@@ -125,6 +128,7 @@ def main(photo_file):
 
 def parse_response(photo_file, response):
     """ Parse response into relevant fields"""
+    
     response = response
     query = photo_file
     all_labels = ''
