@@ -2,12 +2,14 @@
 
 This repository includes code originally written during the [Archives Unleashed Hackathon](https://artsweb.uwaterloo.ca/archivesunleashed/) (March 3-5, 2016). 
 
-The "google-vision-api.py" and "google-vision-api-image-annotate.py" are command-line tools to work with the Vision API.
+The "google-vision-api.py" and "google-vision-api-image-annotate.py" are command-line tools to work with the Vision API. 
+
+The latter script creates images that are annotated with the responses from the Google Cloud Vision API. This helps you see what entities and texts (among many other features) were found by the API in one glance.
 
 ```
-$ python google-vision-api.py [images]
+$ python google-vision-api.py [image or path/to/folder]
 
-$ python google-vision-api-image-annotate.py [images]
+$ python google-vision-api-image-annotate.py [image or path/to/folder]
 ```
 
 ## Google Cloud Vision API
@@ -20,38 +22,38 @@ The [Google Cloud Vision API](https://cloud.google.com/vision/docs/) beta was re
 
 Don't forget to set up your credentials for the CLI to work:
 
-  ```
-  $ export GOOGLE_APPLICATION_CREDENTIALS=<path_to_service_account_file>
+```
+$ export GOOGLE_APPLICATION_CREDENTIALS=<path_to_service_account_file>
 
-  $ echo $GOOGLE_APPLICATION_CREDENTIALS
-  ```
+$ echo $GOOGLE_APPLICATION_CREDENTIALS
+```
 
 2. For the Python script, the [Label Detection Tutorial](https://cloud.google.com/vision/docs/label-tutorial) is a good start. You'll need to run a few "pip install" commands for "google-api-python-client", "oauth2client".
 
-	```
-	$ pip install apiclient
-	$ pip install oauth2client
-	$ pip install httplib2
-	```
+```
+$ pip install apiclient
+$ pip install oauth2client
+$ pip install httplib2
+```
 
 3. Run the script. You can have a folder of images you'd like to call the API on or use individual images.
 
-	```
-	$ python google-vision-api.py images/
-	$ python google-vision-api.py dog.jpg
-	```
+```
+$ python google-vision-api.py images/
+$ python google-vision-api.py dog.jpg
+```
 
 4. Specifiy features you'd like to query. The body portion of the service_request variable can be adjusted to include other data you'd like to get. Currently only label detection and text detection are included in this script but the [documentation](https://cloud.google.com/vision/docs/concepts) includes more.
 
-	```
-	LABEL_DETECTION	Execute Image Content Analysis on the entire image and return
-	TEXT_DETECTION	Perform Optical Character Recognition (OCR) on text within the image
-	FACE_DETECTION	Detect faces within the image
-	LANDMARK_DETECTION	Detect geographic landmarks within the image
-	LOGO_DETECTION	Detect company logos within the image
-	SAFE_SEARCH_DETECTION	Determine image safe search properties on the image
-	IMAGE_PROPERTIES	Compute a set of properties about the image (such as the image's dominant colors)
-	```
+```
+LABEL_DETECTION	Execute Image Content Analysis on the entire image and return
+TEXT_DETECTION	Perform Optical Character Recognition (OCR) on text within the image
+FACE_DETECTION	Detect faces within the image
+LANDMARK_DETECTION	Detect geographic landmarks within the image
+LOGO_DETECTION	Detect company logos within the image
+SAFE_SEARCH_DETECTION	Determine image safe search properties on the image
+IMAGE_PROPERTIES	Compute a set of properties about the image (such as the image's dominant colors)
+```
 
 ### Samples
 
@@ -93,13 +95,13 @@ It works as intended and correctly identifies the image as a dog. Extending the 
 
 ## Dependencies
 
-The "google-vision-api-image-annotate.py" script uses the [Pillow 3.2.x library](https://pillow.readthedocs.org/en/3.2.x/index.html). This is different from the PIL library, which will not work with the script.
+In addition to the libraries required to authenticate with the Google APIs, the "google-vision-api-image-annotate.py" script uses the [Pillow 3.2.x library](https://pillow.readthedocs.org/en/3.2.x/index.html). This is different from the PIL library, which will not work with the script.
 
-  ```
-  $ pip install Pillow
+```
+$ pip install Pillow
 
-  $ pip install --upgrade Pillow
-  ```
+$ pip install --upgrade Pillow
+```
 
 
 ## Data Sets
@@ -137,7 +139,7 @@ Using Droid Sans Mono font to improve readability.
 
 ### wiki-pic-of-the-day-feb-2016
 
-This folder contains image annotations for the Wikipedia Picture of the Day images for February 2016. Each image has been renamed by adding the date (YYYY-MM-DD) it was selected for the picture of the day.
+This folder contains image annotations for the Wikipedia Picture of the Day images for February 2016. Each image has been renamed by adding the date (YYYY-MM-DD) it was selected to be the Picture of the Day.
 
 ![wiki-pick-of-the-day-feb-2016 sample](https://github.com/nchah/google-vision-api/blob/master/gallery/wiki-pic-of-the-day-feb-2016/2016-02-02%20Kaiserin_Augusta_verl%C3%A4sst_Newyork%2C_Chromo-Lithographie_von_C.png)
 
