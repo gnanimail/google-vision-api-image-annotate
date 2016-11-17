@@ -59,7 +59,7 @@ IMAGE_PROPERTIES	Compute a set of properties about the image (such as the image'
 
 The "Getting Started" tutorial provides a dog.jpg image to run in the first API call. 
 
-![dog.jpg](https://github.com/nchah/google-vision-api/blob/master/images/dog.jpg)
+![dog.jpg](https://github.com/nchah/google-vision-api/blob/master/test/images/dog.jpg)
 
 It works as intended and correctly identifies the image as a dog. Extending the maxResults returns even more results as follows.
 ```
@@ -121,17 +121,17 @@ Sample image and annotations:
 
 This was the first working implementation where text correctly wrote to the image file.
 
-![github.png annotation](https://github.com/nchah/google-vision-api/blob/master/images-output/github-v1.png)
+![github.png annotation](https://github.com/nchah/google-vision-api/blob/master/test/images-output/github-v1.png)
 
 The function was further developed to write the output text to a separate area adjacent to the image. This allows the image and text data to be compared side by side in a single view.
 
-![dog.jpg annotation](https://github.com/nchah/google-vision-api/blob/master/images-output/dog-v2.png)
+![dog.jpg annotation](https://github.com/nchah/google-vision-api/blob/master/test/images-output/dog-v2.png)
 
 Using Droid Sans Mono font to improve readability.
 
-![flower.jpg annotation](https://github.com/nchah/google-vision-api/blob/master/images-output/flower-v2.png)
+![flower.jpg annotation](https://github.com/nchah/google-vision-api/blob/master/test/images-output/flower-v2.png)
 
-![github.png annotation](https://github.com/nchah/google-vision-api/blob/master/images-output/github-v3.png)
+![github.png annotation](https://github.com/nchah/google-vision-api/blob/master/test/images-output/github-v3.png)
 
 
 ## Gallery
